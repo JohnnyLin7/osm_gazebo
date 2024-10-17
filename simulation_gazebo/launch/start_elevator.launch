@@ -1,0 +1,10 @@
+<launch>
+    <!-- 启动Gazebo并加载指定的world文件 -->
+    <include file="$(find gazebo_ros)/launch/empty_world.launch">
+        <!-- <arg name="world_name" value="$(find simulation_gazebo)/worlds/elevator_origin.world"/> -->
+        <!-- <arg name="world_name" value="$(find simulation_gazebo)/worlds/elevator_noshaft.world"/> -->
+        <arg name="world_name" value="$(find simulation_gazebo)/worlds/elevator_noshaft.world"/>
+    </include>
+
+
+</launch>

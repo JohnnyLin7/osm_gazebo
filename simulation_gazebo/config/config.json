@@ -1,0 +1,10 @@
+{
+    "osm_utm_transform": {
+        "x": 365557, 
+        "y": 3450307 
+    },
+    "proxy" : {   
+        "http": "http://localhost:7980",
+        "https": "http://localhost:7980"  
+        }
+}

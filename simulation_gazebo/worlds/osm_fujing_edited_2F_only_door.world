@@ -1,0 +1,3387 @@
+<?xml version="1.0" ?>
+<sdf version="1.6">
+  <world name="default">
+    <model name="door_153.8_39.0_0.0">
+      <static>true</static>
+      <pose>153.77499999999418 38.99500000011176 1.5 0 0 -1.6814535479881518</pose>
+      <link name="link">
+        <visual name="visual">
+          <geometry>
+            <box>
+              <size>0.9960923654221514 0.1 3</size>
+            </box>
+          </geometry>
+          <material>
+            <script>
+              <uri>file://media/materials/scripts/gazebo.material</uri>
+              <name>Gazebo/Red</name>
+            </script>
+          </material>
+        </visual>
+      </link>
+    </model>
+    <model name="door_166.5_39.9_0.0">
+      <static>true</static>
+      <pose>166.50500000000466 39.91000000014901 1.5 0 0 -0.1206236686924795</pose>
+      <link name="link">
+        <visual name="visual">
+          <geometry>
+            <box>
+              <size>0.9972462083198822 0.1 3</size>
+            </box>
+          </geometry>
+          <material>
+            <script>
+              <uri>file://media/materials/scripts/gazebo.material</uri>
+              <name>Gazebo/Red</name>
+            </script>
+          </material>
+        </visual>
+      </link>
+    </model>
+    <model name="door_153.7_45.9_0.0">
+      <static>true</static>
+      <pose>153.6600000000035 45.92999999993481 1.5 0 0 -1.6918235466009592</pose>
+      <link name="link">
+        <visual name="visual">
+          <geometry>
+            <box>
+              <size>1.4909057649436974 0.1 3</size>
+            </box>
+          </geometry>
+          <material>
+            <script>
+              <uri>file://media/materials/scripts/gazebo.material</uri>
+              <name>Gazebo/Red</name>
+            </script>
+          </material>
+        </visual>
+      </link>
+    </model>
+    <model name="door_161.1_40.6_0.0">
+      <static>true</static>
+      <pose>161.1350000000093 40.56000000005588 1.5 0 0 -0.1206236686924795</pose>
+      <link name="link">
+        <visual name="visual">
+          <geometry>
+            <box>
+              <size>0.9972462083198822 0.1 3</size>
+            </box>
+          </geometry>
+          <material>
+            <script>
+              <uri>file://media/materials/scripts/gazebo.material</uri>
+              <name>Gazebo/Red</name>
+            </script>
+          </material>
+        </visual>
+      </link>
+    </model>
+    <model name="door_191.0_47.1_0.0">
+      <static>true</static>
+      <pose>190.97500000000582 47.06499999994412 1.5 0 0 3.02480805813934</pose>
+      <link name="link">
+        <visual name="visual">
+          <geometry>
+            <box>
+              <size>1.8022763383869123 0.1 3</size>
+            </box>
+          </geometry>
+          <material>
+            <script>
+              <uri>file://media/materials/scripts/gazebo.material</uri>
+              <name>Gazebo/Red</name>
+            </script>
+          </material>
+        </visual>
+      </link>
+    </model>
+    <model name="door_180.6_48.3_0.0">
+      <static>true</static>
+      <pose>180.6350000000093 48.31000000005588 1.5 0 0 3.0193009299888676</pose>
+      <link name="link">
+        <visual name="visual">
+          <geometry>
+            <box>
+              <size>1.8034688796923075 0.1 3</size>
+            </box>
+          </geometry>
+          <material>
+            <script>
+              <uri>file://media/materials/scripts/gazebo.material</uri>
+              <name>Gazebo/Red</name>
+            </script>
+          </material>
+        </visual>
+      </link>
+    </model>
+    <model name="door_154.0_40.6_0.0">
+      <static>true</static>
+      <pose>153.9649999999965 40.574999999953434 1.5 0 0 -1.693768196390317</pose>
+      <link name="link">
+        <visual name="visual">
+          <geometry>
+            <box>
+              <size>0.8967719889926413 0.1 3</size>
+            </box>
+          </geometry>
+          <material>
+            <script>
+              <uri>file://media/materials/scripts/gazebo.material</uri>
+              <name>Gazebo/Red</name>
+            </script>
+          </material>
+        </visual>
+      </link>
+    </model>
+    <model name="door_168.1_39.7_0.0">
+      <static>true</static>
+      <pose>168.09500000000116 39.71999999997206 1.5 0 0 -0.12062366822190172</pose>
+      <link name="link">
+        <visual name="visual">
+          <geometry>
+            <box>
+              <size>0.9972462083216332 0.1 3</size>
+            </box>
+          </geometry>
+          <material>
+            <script>
+              <uri>file://media/materials/scripts/gazebo.material</uri>
+              <name>Gazebo/Red</name>
+            </script>
+          </material>
+        </visual>
+      </link>
+    </model>
+    <model name="door_194.4_46.6_0.0">
+      <static>true</static>
+      <pose>194.41500000000815 46.64999999990687 1.5 0 0 3.0193009299849303</pose>
+      <link name="link">
+        <visual name="visual">
+          <geometry>
+            <box>
+              <size>1.8034688796345346 0.1 3</size>
+            </box>
+          </geometry>
+          <material>
+            <script>
+              <uri>file://media/materials/scripts/gazebo.material</uri>
+              <name>Gazebo/Red</name>
+            </script>
+          </material>
+        </visual>
+      </link>
+    </model>
+    <model name="door_204.7_45.4_0.0">
+      <static>true</static>
+      <pose>204.74499999999534 45.40499999979511 1.5 0 0 3.0248080581431034</pose>
+      <link name="link">
+        <visual name="visual">
+          <geometry>
+            <box>
+              <size>1.8022763384447233 0.1 3</size>
+            </box>
+          </geometry>
+          <material>
+            <script>
+              <uri>file://media/materials/scripts/gazebo.material</uri>
+              <name>Gazebo/Red</name>
+            </script>
+          </material>
+        </visual>
+      </link>
+    </model>
+    <model name="door_156.3_47.3_0.0">
+      <static>true</static>
+      <pose>156.25500000000466 47.32000000006519 1.5 0 0 -0.12002333835124222</pose>
+      <link name="link">
+        <visual name="visual">
+          <geometry>
+            <box>
+              <size>2.004420115606183 0.1 3</size>
+            </box>
+          </geometry>
+          <material>
+            <script>
+              <uri>file://media/materials/scripts/gazebo.material</uri>
+              <name>Gazebo/Red</name>
+            </script>
+          </material>
+        </visual>
+      </link>
+    </model>
+    <model name="door_160.4_46.8_0.0">
+      <static>true</static>
+      <pose>160.3850000000093 46.81999999983236 1.5 0 0 -0.1206236686924795</pose>
+      <link name="link">
+        <visual name="visual">
+          <geometry>
+            <box>
+              <size>0.9972462083198822 0.1 3</size>
+            </box>
+          </geometry>
+          <material>
+            <script>
+              <uri>file://media/materials/scripts/gazebo.material</uri>
+              <name>Gazebo/Red</name>
+            </script>
+          </material>
+        </visual>
+      </link>
+    </model>
+    <model name="door_161.8_46.7_0.0">
+      <static>true</static>
+      <pose>161.7600000000093 46.66000000014901 1.5 0 0 -0.11942892612851068</pose>
+      <link name="link">
+        <visual name="visual">
+          <geometry>
+            <box>
+              <size>1.0071742649744493 0.1 3</size>
+            </box>
+          </geometry>
+          <material>
+            <script>
+              <uri>file://media/materials/scripts/gazebo.material</uri>
+              <name>Gazebo/Red</name>
+            </script>
+          </material>
+        </visual>
+      </link>
+    </model>
+    <model name="door_170.5_45.6_0.0">
+      <static>true</static>
+      <pose>170.48499999998603 45.609999999869615 1.5 0 0 -0.1206236686924795</pose>
+      <link name="link">
+        <visual name="visual">
+          <geometry>
+            <box>
+              <size>0.9972462083198822 0.1 3</size>
+            </box>
+          </geometry>
+          <material>
+            <script>
+              <uri>file://media/materials/scripts/gazebo.material</uri>
+              <name>Gazebo/Red</name>
+            </script>
+          </material>
+        </visual>
+      </link>
+    </model>
+    <model name="door_175.8_44.9_0.0">
+      <static>true</static>
+      <pose>175.80500000022585 44.86500000022352 1.5 0 0 1.4540117310915928</pose>
+      <link name="link">
+        <visual name="visual">
+          <geometry>
+            <box>
+              <size>1.802276338498982 0.1 3</size>
+            </box>
+          </geometry>
+          <material>
+            <script>
+              <uri>file://media/materials/scripts/gazebo.material</uri>
+              <name>Gazebo/Green</name>
+            </script>
+          </material>
+        </visual>
+      </link>
+    </model>
+    <model name="door_190.5_42.2_0.0">
+      <static>true</static>
+      <pose>190.5 42.18999999994412 1.5 0 0 -0.12161902311549111</pose>
+      <link name="link">
+        <visual name="visual">
+          <geometry>
+            <box>
+              <size>1.8133946068224918 0.1 3</size>
+            </box>
+          </geometry>
+          <material>
+            <script>
+              <uri>file://media/materials/scripts/gazebo.material</uri>
+              <name>Gazebo/Red</name>
+            </script>
+          </material>
+        </visual>
+      </link>
+    </model>
+    <model name="door_194.0_41.8_0.0">
+      <static>true</static>
+      <pose>194.0350000000035 41.765000000130385 1.5 0 0 -0.11678459545045303</pose>
+      <link name="link">
+        <visual name="visual">
+          <geometry>
+            <box>
+              <size>1.8022763383869123 0.1 3</size>
+            </box>
+          </geometry>
+          <material>
+            <script>
+              <uri>file://media/materials/scripts/gazebo.material</uri>
+              <name>Gazebo/Red</name>
+            </script>
+          </material>
+        </visual>
+      </link>
+    </model>
+    <model name="door_207.6_40.1_0.0">
+      <static>true</static>
+      <pose>207.55999999999767 40.13500000000931 1.5 0 0 -0.11743469003206944</pose>
+      <link name="link">
+        <visual name="visual">
+          <geometry>
+            <box>
+              <size>1.7923448329714338 0.1 3</size>
+            </box>
+          </geometry>
+          <material>
+            <script>
+              <uri>file://media/materials/scripts/gazebo.material</uri>
+              <name>Gazebo/Red</name>
+            </script>
+          </material>
+        </visual>
+      </link>
+    </model>
+    <model name="door_177.8_47.7_0.0">
+      <static>true</static>
+      <pose>177.8499999999185 47.734999999869615 1.5 0 0 -1.6930880506520969</pose>
+      <link name="link">
+        <visual name="visual">
+          <geometry>
+            <box>
+              <size>1.803468879749112 0.1 3</size>
+            </box>
+          </geometry>
+          <material>
+            <script>
+              <uri>file://media/materials/scripts/gazebo.material</uri>
+              <name>Gazebo/Green</name>
+            </script>
+          </material>
+        </visual>
+      </link>
+    </model>
+    <model name="door_168.8_48.8_0.0">
+      <static>true</static>
+      <pose>168.83500000002095 48.825000000186265 1.5 0 0 -1.6875809222415865</pose>
+      <link name="link">
+        <visual name="visual">
+          <geometry>
+            <box>
+              <size>1.8022763384447233 0.1 3</size>
+            </box>
+          </geometry>
+          <material>
+            <script>
+              <uri>file://media/materials/scripts/gazebo.material</uri>
+              <name>Gazebo/Green</name>
+            </script>
+          </material>
+        </visual>
+      </link>
+    </model>
+    <model name="door_162.6_50.5_0.0">
+      <static>true</static>
+      <pose>162.57000000000698 50.484999999869615 1.5 0 0 3.02415796381574</pose>
+      <link name="link">
+        <visual name="visual">
+          <geometry>
+            <box>
+              <size>1.7923448329168745 0.1 3</size>
+            </box>
+          </geometry>
+          <material>
+            <script>
+              <uri>file://media/materials/scripts/gazebo.material</uri>
+              <name>Gazebo/Red</name>
+            </script>
+          </material>
+        </visual>
+      </link>
+    </model>
+    <model name="door_173.6_44.2_0.0">
+      <static>true</static>
+      <pose>173.6149999999907 44.21999999997206 1.5 0 0 -0.12022278677294355</pose>
+      <link name="link">
+        <visual name="visual">
+          <geometry>
+            <box>
+              <size>1.5008331019912227 0.1 3</size>
+            </box>
+          </geometry>
+          <material>
+            <script>
+              <uri>file://media/materials/scripts/gazebo.material</uri>
+              <name>Gazebo/Red</name>
+            </script>
+          </material>
+        </visual>
+      </link>
+    </model>
+    <model name="door_214.1_39.3_0.0">
+      <static>true</static>
+      <pose>214.1350000000093 39.34499999997206 1.5 0 0 -0.11870533746682131</pose>
+      <link name="link">
+        <visual name="visual">
+          <geometry>
+            <box>
+              <size>1.097724920014552 0.1 3</size>
+            </box>
+          </geometry>
+          <material>
+            <script>
+              <uri>file://media/materials/scripts/gazebo.material</uri>
+              <name>Gazebo/Red</name>
+            </script>
+          </material>
+        </visual>
+      </link>
+    </model>
+    <model name="door_214.4_40.5_0.0">
+      <static>true</static>
+      <pose>214.44000000006054 40.52000000001863 1.5 0 0 3.0182549527621143</pose>
+      <link name="link">
+        <visual name="visual">
+          <geometry>
+            <box>
+              <size>2.438524143724567 0.1 3</size>
+            </box>
+          </geometry>
+          <material>
+            <script>
+              <uri>file://media/materials/scripts/gazebo.material</uri>
+              <name>Gazebo/Green</name>
+            </script>
+          </material>
+        </visual>
+      </link>
+    </model>
+    <model name="door_208.1_45.0_0.0">
+      <static>true</static>
+      <pose>208.09500000000116 45.0 1.5 0 0 3.0193009299849303</pose>
+      <link name="link">
+        <visual name="visual">
+          <geometry>
+            <box>
+              <size>1.8034688796345346 0.1 3</size>
+            </box>
+          </geometry>
+          <material>
+            <script>
+              <uri>file://media/materials/scripts/gazebo.material</uri>
+              <name>Gazebo/Red</name>
+            </script>
+          </material>
+        </visual>
+      </link>
+    </model>
+    <model name="door_170.0_41.7_0.0">
+      <static>true</static>
+      <pose>170.0100000000093 41.68999999994412 1.5 0 0 -0.11942892612851068</pose>
+      <link name="link">
+        <visual name="visual">
+          <geometry>
+            <box>
+              <size>1.0071742649744493 0.1 3</size>
+            </box>
+          </geometry>
+          <material>
+            <script>
+              <uri>file://media/materials/scripts/gazebo.material</uri>
+              <name>Gazebo/Red</name>
+            </script>
+          </material>
+        </visual>
+      </link>
+    </model>
+    <model name="door_154.2_42.2_0.0">
+      <static>true</static>
+      <pose>154.15000000002328 42.15500000002794 1.5 0 0 -1.6914199953995817</pose>
+      <link name="link">
+        <visual name="visual">
+          <geometry>
+            <box>
+              <size>0.997246208074735 0.1 3</size>
+            </box>
+          </geometry>
+          <material>
+            <script>
+              <uri>file://media/materials/scripts/gazebo.material</uri>
+              <name>Gazebo/Red</name>
+            </script>
+          </material>
+        </visual>
+      </link>
+    </model>
+    <model name="door_157.5_41.9_0.0">
+      <static>true</static>
+      <pose>157.51500000001397 41.94500000006519 1.5 0 0 -1.6895016639081246</pose>
+      <link name="link">
+        <visual name="visual">
+          <geometry>
+            <box>
+              <size>1.0977249203199801 0.1 3</size>
+            </box>
+          </geometry>
+          <material>
+            <script>
+              <uri>file://media/materials/scripts/gazebo.material</uri>
+              <name>Gazebo/Red</name>
+            </script>
+          </material>
+        </visual>
+      </link>
+    </model>
+    <model name="door_154.9_36.9_0.0">
+      <static>true</static>
+      <pose>154.86999999999534 36.85000000009313 1.5 0 0 -0.11990398547329398</pose>
+      <link name="link">
+        <visual name="visual">
+          <geometry>
+            <box>
+              <size>1.6720047847367918 0.1 3</size>
+            </box>
+          </geometry>
+          <material>
+            <script>
+              <uri>file://media/materials/scripts/gazebo.material</uri>
+              <name>Gazebo/Red</name>
+            </script>
+          </material>
+        </visual>
+      </link>
+    </model>
+    <model name="door_159.5_40.8_0.0">
+      <static>true</static>
+      <pose>159.5449999999837 40.75 1.5 0 0 -0.1206236686924795</pose>
+      <link name="link">
+        <visual name="visual">
+          <geometry>
+            <box>
+              <size>0.9972462083198822 0.1 3</size>
+            </box>
+          </geometry>
+          <material>
+            <script>
+              <uri>file://media/materials/scripts/gazebo.material</uri>
+              <name>Gazebo/Red</name>
+            </script>
+          </material>
+        </visual>
+      </link>
+    </model>
+    <model name="door_171.6_39.3_0.0">
+      <static>true</static>
+      <pose>171.56500000000233 39.300000000046566 1.5 0 0 -0.12062366822892527</pose>
+      <link name="link">
+        <visual name="visual">
+          <geometry>
+            <box>
+              <size>0.9972462082638486 0.1 3</size>
+            </box>
+          </geometry>
+          <material>
+            <script>
+              <uri>file://media/materials/scripts/gazebo.material</uri>
+              <name>Gazebo/Red</name>
+            </script>
+          </material>
+        </visual>
+      </link>
+    </model>
+    <model name="door_80.2_77.2_0.0">
+      <static>true</static>
+      <pose>80.19499999997788 77.22500000009313 1.5 0 0 -1.3773690000310248</pose>
+      <link name="link">
+        <visual name="visual">
+          <geometry>
+            <box>
+              <size>0.9884331031966657 0.1 3</size>
+            </box>
+          </geometry>
+          <material>
+            <script>
+              <uri>file://media/materials/scripts/gazebo.material</uri>
+              <name>Gazebo/Red</name>
+            </script>
+          </material>
+        </visual>
+      </link>
+    </model>
+    <model name="door_135.5_76.8_0.0">
+      <static>true</static>
+      <pose>135.49499999999534 76.79000000003725 1.5 0 0 -0.10022174961299568</pose>
+      <link name="link">
+        <visual name="visual">
+          <geometry>
+            <box>
+              <size>1.799027515083101 0.1 3</size>
+            </box>
+          </geometry>
+          <material>
+            <script>
+              <uri>file://media/materials/scripts/gazebo.material</uri>
+              <name>Gazebo/Red</name>
+            </script>
+          </material>
+        </visual>
+      </link>
+    </model>
+    <model name="door_132.7_77.1_0.0">
+      <static>true</static>
+      <pose>132.7049999999872 77.07000000006519 1.5 0 0 -0.10022174987377463</pose>
+      <link name="link">
+        <visual name="visual">
+          <geometry>
+            <box>
+              <size>1.7990275150717767 0.1 3</size>
+            </box>
+          </geometry>
+          <material>
+            <script>
+              <uri>file://media/materials/scripts/gazebo.material</uri>
+              <name>Gazebo/Red</name>
+            </script>
+          </material>
+        </visual>
+      </link>
+    </model>
+    <model name="door_112.2_77.9_0.0">
+      <static>true</static>
+      <pose>112.1699999999837 77.92500000004657 1.5 0 0 -0.09966865283695012</pose>
+      <link name="link">
+        <visual name="visual">
+          <geometry>
+            <box>
+              <size>0.9044888059555555 0.1 3</size>
+            </box>
+          </geometry>
+          <material>
+            <script>
+              <uri>file://media/materials/scripts/gazebo.material</uri>
+              <name>Gazebo/Red</name>
+            </script>
+          </material>
+        </visual>
+      </link>
+    </model>
+    <model name="door_104.7_79.7_0.0">
+      <static>true</static>
+      <pose>104.70999999999185 79.65999999991618 1.5 0 0 -1.6724851785951633</pose>
+      <link name="link">
+        <visual name="visual">
+          <geometry>
+            <box>
+              <size>0.9850888284669952 0.1 3</size>
+            </box>
+          </geometry>
+          <material>
+            <script>
+              <uri>file://media/materials/scripts/gazebo.material</uri>
+              <name>Gazebo/Red</name>
+            </script>
+          </material>
+        </visual>
+      </link>
+    </model>
+    <model name="door_104.9_83.1_0.0">
+      <static>true</static>
+      <pose>104.86999999999534 83.12999999988824 1.5 0 0 1.4711276743267871</pose>
+      <link name="link">
+        <visual name="visual">
+          <geometry>
+            <box>
+              <size>1.0049875621097721 0.1 3</size>
+            </box>
+          </geometry>
+          <material>
+            <script>
+              <uri>file://media/materials/scripts/gazebo.material</uri>
+              <name>Gazebo/Red</name>
+            </script>
+          </material>
+        </visual>
+      </link>
+    </model>
+    <model name="door_105.1_85.5_0.0">
+      <static>true</static>
+      <pose>105.10999999998603 85.53499999991618 1.5 0 0 1.4589060606653106</pose>
+      <link name="link">
+        <visual name="visual">
+          <geometry>
+            <box>
+              <size>0.895600357429266 0.1 3</size>
+            </box>
+          </geometry>
+          <material>
+            <script>
+              <uri>file://media/materials/scripts/gazebo.material</uri>
+              <name>Gazebo/Red</name>
+            </script>
+          </material>
+        </visual>
+      </link>
+    </model>
+    <model name="door_110.6_86.8_0.0">
+      <static>true</static>
+      <pose>110.55999999999767 86.81499999994412 1.5 0 0 1.4701276746829237</pose>
+      <link name="link">
+        <visual name="visual">
+          <geometry>
+            <box>
+              <size>0.9950376879485058 0.1 3</size>
+            </box>
+          </geometry>
+          <material>
+            <script>
+              <uri>file://media/materials/scripts/gazebo.material</uri>
+              <name>Gazebo/Red</name>
+            </script>
+          </material>
+        </visual>
+      </link>
+    </model>
+    <model name="door_102.4_88.9_0.0">
+      <static>true</static>
+      <pose>102.38000000000466 88.94000000017695 1.5 0 0 -0.09966865258337218</pose>
+      <link name="link">
+        <visual name="visual">
+          <geometry>
+            <box>
+              <size>1.004987562121356 0.1 3</size>
+            </box>
+          </geometry>
+          <material>
+            <script>
+              <uri>file://media/materials/scripts/gazebo.material</uri>
+              <name>Gazebo/Red</name>
+            </script>
+          </material>
+        </visual>
+      </link>
+    </model>
+    <model name="door_107.8_88.4_0.0">
+      <static>true</static>
+      <pose>107.78999999997905 88.4000000001397 1.5 0 0 -0.09966865258337218</pose>
+      <link name="link">
+        <visual name="visual">
+          <geometry>
+            <box>
+              <size>1.004987562121356 0.1 3</size>
+            </box>
+          </geometry>
+          <material>
+            <script>
+              <uri>file://media/materials/scripts/gazebo.material</uri>
+              <name>Gazebo/Red</name>
+            </script>
+          </material>
+        </visual>
+      </link>
+    </model>
+    <model name="door_102.5_80.0_0.0">
+      <static>true</static>
+      <pose>102.52499999999418 79.9550000000745 1.5 0 0 -1.6711294309773623</pose>
+      <link name="link">
+        <visual name="visual">
+          <geometry>
+            <box>
+              <size>1.4975313020620318 0.1 3</size>
+            </box>
+          </geometry>
+          <material>
+            <script>
+              <uri>file://media/materials/scripts/gazebo.material</uri>
+              <name>Gazebo/Red</name>
+            </script>
+          </material>
+        </visual>
+      </link>
+    </model>
+    <model name="door_102.7_79.6_0.0">
+      <static>true</static>
+      <pose>102.69000000006054 79.59000000008382 1.5 0 0 1.4711276742268928</pose>
+      <link name="link">
+        <visual name="visual">
+          <geometry>
+            <box>
+              <size>1.808977612096451 0.1 3</size>
+            </box>
+          </geometry>
+          <material>
+            <script>
+              <uri>file://media/materials/scripts/gazebo.material</uri>
+              <name>Gazebo/Green</name>
+            </script>
+          </material>
+        </visual>
+      </link>
+    </model>
+    <model name="door_104.6_80.8_0.0">
+      <static>true</static>
+      <pose>104.625 80.77000000001863 1.5 0 0 -1.6704649792092168</pose>
+      <link name="link">
+        <visual name="visual">
+          <geometry>
+            <box>
+              <size>0.904488806268317 0.1 3</size>
+            </box>
+          </geometry>
+          <material>
+            <script>
+              <uri>file://media/materials/scripts/gazebo.material</uri>
+              <name>Gazebo/Red</name>
+            </script>
+          </material>
+        </visual>
+      </link>
+    </model>
+    <model name="door_121.5_78.2_0.0">
+      <static>true</static>
+      <pose>121.54000000000815 78.20999999996275 1.5 0 0 -0.09966865232787321</pose>
+      <link name="link">
+        <visual name="visual">
+          <geometry>
+            <box>
+              <size>1.808977611760522 0.1 3</size>
+            </box>
+          </geometry>
+          <material>
+            <script>
+              <uri>file://media/materials/scripts/gazebo.material</uri>
+              <name>Gazebo/Red</name>
+            </script>
+          </material>
+        </visual>
+      </link>
+    </model>
+    <model name="door_118.0_79.5_0.0">
+      <static>true</static>
+      <pose>117.96999999985565 79.46499999985099 1.5 0 0 1.470574577181901</pose>
+      <link name="link">
+        <visual name="visual">
+          <geometry>
+            <box>
+              <size>1.799027515083101 0.1 3</size>
+            </box>
+          </geometry>
+          <material>
+            <script>
+              <uri>file://media/materials/scripts/gazebo.material</uri>
+              <name>Gazebo/Green</name>
+            </script>
+          </material>
+        </visual>
+      </link>
+    </model>
+    <model name="door_142.5_81.3_0.0">
+      <static>true</static>
+      <pose>142.54999999998836 81.33499999996275 1.5 0 0 -0.09966865273705577</pose>
+      <link name="link">
+        <visual name="visual">
+          <geometry>
+            <box>
+              <size>1.5074813432052014 0.1 3</size>
+            </box>
+          </geometry>
+          <material>
+            <script>
+              <uri>file://media/materials/scripts/gazebo.material</uri>
+              <name>Gazebo/Red</name>
+            </script>
+          </material>
+        </visual>
+      </link>
+    </model>
+    <model name="door_138.2_70.8_0.0">
+      <static>true</static>
+      <pose>138.2149999999965 70.78000000002794 1.5 0 0 -0.01104927408967263</pose>
+      <link name="link">
+        <visual name="visual">
+          <geometry>
+            <box>
+              <size>1.810110493862824 0.1 3</size>
+            </box>
+          </geometry>
+          <material>
+            <script>
+              <uri>file://media/materials/scripts/gazebo.material</uri>
+              <name>Gazebo/Red</name>
+            </script>
+          </material>
+        </visual>
+      </link>
+    </model>
+    <model name="door_127.1_71.0_0.0">
+      <static>true</static>
+      <pose>127.05000000001746 70.9550000000745 1.5 0 0 3.1249275297309125</pose>
+      <link name="link">
+        <visual name="visual">
+          <geometry>
+            <box>
+              <size>1.8002499826340055 0.1 3</size>
+            </box>
+          </geometry>
+          <material>
+            <script>
+              <uri>file://media/materials/scripts/gazebo.material</uri>
+              <name>Gazebo/Red</name>
+            </script>
+          </material>
+        </visual>
+      </link>
+    </model>
+    <model name="door_124.3_71.0_0.0">
+      <static>true</static>
+      <pose>124.26499999998487 70.98999999999069 1.5 0 0 3.1305433795001205</pose>
+      <link name="link">
+        <visual name="visual">
+          <geometry>
+            <box>
+              <size>1.810110493862824 0.1 3</size>
+            </box>
+          </geometry>
+          <material>
+            <script>
+              <uri>file://media/materials/scripts/gazebo.material</uri>
+              <name>Gazebo/Red</name>
+            </script>
+          </material>
+        </visual>
+      </link>
+    </model>
+    <model name="door_113.0_71.1_0.0">
+      <static>true</static>
+      <pose>113.03500000000349 71.13000000012107 1.5 0 0 3.1305433795001205</pose>
+      <link name="link">
+        <visual name="visual">
+          <geometry>
+            <box>
+              <size>1.810110493862824 0.1 3</size>
+            </box>
+          </geometry>
+          <material>
+            <script>
+              <uri>file://media/materials/scripts/gazebo.material</uri>
+              <name>Gazebo/Red</name>
+            </script>
+          </material>
+        </visual>
+      </link>
+    </model>
+    <model name="door_110.2_71.2_0.0">
+      <static>true</static>
+      <pose>110.23500000001513 71.17000000015832 1.5 0 0 3.1305433795001205</pose>
+      <link name="link">
+        <visual name="visual">
+          <geometry>
+            <box>
+              <size>1.810110493862824 0.1 3</size>
+            </box>
+          </geometry>
+          <material>
+            <script>
+              <uri>file://media/materials/scripts/gazebo.material</uri>
+              <name>Gazebo/Red</name>
+            </script>
+          </material>
+        </visual>
+      </link>
+    </model>
+    <model name="door_143.5_73.3_0.0">
+      <static>true</static>
+      <pose>143.4550000000163 73.29500000015832 1.5 0 0 1.4718835320591757</pose>
+      <link name="link">
+        <visual name="visual">
+          <geometry>
+            <box>
+              <size>1.3164345787571878 0.1 3</size>
+            </box>
+          </geometry>
+          <material>
+            <script>
+              <uri>file://media/materials/scripts/gazebo.material</uri>
+              <name>Gazebo/Red</name>
+            </script>
+          </material>
+        </visual>
+      </link>
+    </model>
+    <model name="door_103.2_73.0_0.0">
+      <static>true</static>
+      <pose>103.15500000014435 73.02000000025146 1.5 0 0 -2.9552965370366153</pose>
+      <link name="link">
+        <visual name="visual">
+          <geometry>
+            <box>
+              <size>1.9436306230085285 0.1 3</size>
+            </box>
+          </geometry>
+          <material>
+            <script>
+              <uri>file://media/materials/scripts/gazebo.material</uri>
+              <name>Gazebo/Green</name>
+            </script>
+          </material>
+        </visual>
+      </link>
+    </model>
+    <model name="door_71.7_114.6_0.0">
+      <static>true</static>
+      <pose>71.72999999998137 114.55000000004657 1.5 0 0 -1.3690339825092397</pose>
+      <link name="link">
+        <visual name="visual">
+          <geometry>
+            <box>
+              <size>1.796440926065282 0.1 3</size>
+            </box>
+          </geometry>
+          <material>
+            <script>
+              <uri>file://media/materials/scripts/gazebo.material</uri>
+              <name>Gazebo/Red</name>
+            </script>
+          </material>
+        </visual>
+      </link>
+    </model>
+    <model name="door_72.4_111.0_0.0">
+      <static>true</static>
+      <pose>72.43499999999767 111.04000000003725 1.5 0 0 -1.3744936626731843</pose>
+      <link name="link">
+        <visual name="visual">
+          <geometry>
+            <box>
+              <size>1.7944637079631676 0.1 3</size>
+            </box>
+          </geometry>
+          <material>
+            <script>
+              <uri>file://media/materials/scripts/gazebo.material</uri>
+              <name>Gazebo/Red</name>
+            </script>
+          </material>
+        </visual>
+      </link>
+    </model>
+    <model name="door_74.4_101.3_0.0">
+      <static>true</static>
+      <pose>74.38000000000466 101.26000000000931 1.5 0 0 -1.3690339825092397</pose>
+      <link name="link">
+        <visual name="visual">
+          <geometry>
+            <box>
+              <size>1.796440926065282 0.1 3</size>
+            </box>
+          </geometry>
+          <material>
+            <script>
+              <uri>file://media/materials/scripts/gazebo.material</uri>
+              <name>Gazebo/Red</name>
+            </script>
+          </material>
+        </visual>
+      </link>
+    </model>
+    <model name="door_75.1_97.8_0.0">
+      <static>true</static>
+      <pose>75.0800000000163 97.75 1.5 0 0 -1.3690339824572944</pose>
+      <link name="link">
+        <visual name="visual">
+          <geometry>
+            <box>
+              <size>1.7964409256090668 0.1 3</size>
+            </box>
+          </geometry>
+          <material>
+            <script>
+              <uri>file://media/materials/scripts/gazebo.material</uri>
+              <name>Gazebo/Red</name>
+            </script>
+          </material>
+        </visual>
+      </link>
+    </model>
+    <model name="door_77.2_87.2_0.0">
+      <static>true</static>
+      <pose>77.19000000000233 87.18999999994412 1.5 0 0 -1.3690339824572944</pose>
+      <link name="link">
+        <visual name="visual">
+          <geometry>
+            <box>
+              <size>1.7964409256090668 0.1 3</size>
+            </box>
+          </geometry>
+          <material>
+            <script>
+              <uri>file://media/materials/scripts/gazebo.material</uri>
+              <name>Gazebo/Red</name>
+            </script>
+          </material>
+        </visual>
+      </link>
+    </model>
+    <model name="door_77.9_83.7_0.0">
+      <static>true</static>
+      <pose>77.88500000000931 83.6699999999255 1.5 0 0 -1.3744936626731843</pose>
+      <link name="link">
+        <visual name="visual">
+          <geometry>
+            <box>
+              <size>1.7944637079631676 0.1 3</size>
+            </box>
+          </geometry>
+          <material>
+            <script>
+              <uri>file://media/materials/scripts/gazebo.material</uri>
+              <name>Gazebo/Red</name>
+            </script>
+          </material>
+        </visual>
+      </link>
+    </model>
+    <model name="door_76.4_75.6_0.0">
+      <static>true</static>
+      <pose>76.39000000001397 75.57500000018626 1.5 0 0 0.19083110263865674</pose>
+      <link name="link">
+        <visual name="visual">
+          <geometry>
+            <box>
+              <size>0.8962700485807075 0.1 3</size>
+            </box>
+          </geometry>
+          <material>
+            <script>
+              <uri>file://media/materials/scripts/gazebo.material</uri>
+              <name>Gazebo/Red</name>
+            </script>
+          </material>
+        </visual>
+      </link>
+    </model>
+    <model name="door_75.8_74.0_0.0">
+      <static>true</static>
+      <pose>75.83999999999651 74.0 1.5 0 0 -1.3690339824572944</pose>
+      <link name="link">
+        <visual name="visual">
+          <geometry>
+            <box>
+              <size>0.8982204628045334 0.1 3</size>
+            </box>
+          </geometry>
+          <material>
+            <script>
+              <uri>file://media/materials/scripts/gazebo.material</uri>
+              <name>Gazebo/Red</name>
+            </script>
+          </material>
+        </visual>
+      </link>
+    </model>
+    <model name="door_78.6_105.4_0.0">
+      <static>true</static>
+      <pose>78.55999999999767 105.38999999989755 1.5 0 0 -1.3690339825092397</pose>
+      <link name="link">
+        <visual name="visual">
+          <geometry>
+            <box>
+              <size>1.796440926065282 0.1 3</size>
+            </box>
+          </geometry>
+          <material>
+            <script>
+              <uri>file://media/materials/scripts/gazebo.material</uri>
+              <name>Gazebo/Red</name>
+            </script>
+          </material>
+        </visual>
+      </link>
+    </model>
+    <model name="door_76.5_115.5_0.0">
+      <static>true</static>
+      <pose>76.53999999997905 115.50500000012107 1.5 0 0 -1.3701434494846443</pose>
+      <link name="link">
+        <visual name="visual">
+          <geometry>
+            <box>
+              <size>1.8062391868343128 0.1 3</size>
+            </box>
+          </geometry>
+          <material>
+            <script>
+              <uri>file://media/materials/scripts/gazebo.material</uri>
+              <name>Gazebo/Red</name>
+            </script>
+          </material>
+        </visual>
+      </link>
+    </model>
+    <model name="door_79.2_102.2_0.0">
+      <static>true</static>
+      <pose>79.18499999999767 102.20999999996275 1.5 0 0 -1.3744936626731843</pose>
+      <link name="link">
+        <visual name="visual">
+          <geometry>
+            <box>
+              <size>1.7944637079631676 0.1 3</size>
+            </box>
+          </geometry>
+          <material>
+            <script>
+              <uri>file://media/materials/scripts/gazebo.material</uri>
+              <name>Gazebo/Red</name>
+            </script>
+          </material>
+        </visual>
+      </link>
+    </model>
+    <model name="door_81.3_91.7_0.0">
+      <static>true</static>
+      <pose>81.2949999999837 91.65999999991618 1.5 0 0 -1.374493662723798</pose>
+      <link name="link">
+        <visual name="visual">
+          <geometry>
+            <box>
+              <size>1.7944637084198858 0.1 3</size>
+            </box>
+          </geometry>
+          <material>
+            <script>
+              <uri>file://media/materials/scripts/gazebo.material</uri>
+              <name>Gazebo/Red</name>
+            </script>
+          </material>
+        </visual>
+      </link>
+    </model>
+    <model name="door_81.1_72.9_0.0">
+      <static>true</static>
+      <pose>81.05000000001746 72.92000000015832 1.5 0 0 1.7721134351846652</pose>
+      <link name="link">
+        <visual name="visual">
+          <geometry>
+            <box>
+              <size>1.0001999799880765 0.1 3</size>
+            </box>
+          </geometry>
+          <material>
+            <script>
+              <uri>file://media/materials/scripts/gazebo.material</uri>
+              <name>Gazebo/Red</name>
+            </script>
+          </material>
+        </visual>
+      </link>
+    </model>
+    <model name="door_81.6_67.9_0.0">
+      <static>true</static>
+      <pose>81.55000000001746 67.88999999989755 1.5 0 0 0.2009542638673007</pose>
+      <link name="link">
+        <visual name="visual">
+          <geometry>
+            <box>
+              <size>1.1021796587332557 0.1 3</size>
+            </box>
+          </geometry>
+          <material>
+            <script>
+              <uri>file://media/materials/scripts/gazebo.material</uri>
+              <name>Gazebo/Red</name>
+            </script>
+          </material>
+        </visual>
+      </link>
+    </model>
+    <model name="door_75.1_117.8_0.0">
+      <static>true</static>
+      <pose>75.06500000000233 117.75500000012107 1.5 0 0 -1.376431060702658</pose>
+      <link name="link">
+        <visual name="visual">
+          <geometry>
+            <box>
+              <size>1.2943724348298333 0.1 3</size>
+            </box>
+          </geometry>
+          <material>
+            <script>
+              <uri>file://media/materials/scripts/gazebo.material</uri>
+              <name>Gazebo/Red</name>
+            </script>
+          </material>
+        </visual>
+      </link>
+    </model>
+    <model name="door_115.0_62.2_0.0">
+      <static>true</static>
+      <pose>115.0 62.23999999999069 1.5 0 0 -0.014034166198596688</pose>
+      <link name="link">
+        <visual name="visual">
+          <geometry>
+            <box>
+              <size>5.700561375812611 0.1 3</size>
+            </box>
+          </geometry>
+          <material>
+            <script>
+              <uri>file://media/materials/scripts/gazebo.material</uri>
+              <name>Gazebo/Red</name>
+            </script>
+          </material>
+        </visual>
+      </link>
+    </model>
+    <model name="door_129.0_62.0_0.0">
+      <static>true</static>
+      <pose>129.01999999998952 62.049999999813735 1.5 0 0 -0.014034166280132265</pose>
+      <link name="link">
+        <visual name="visual">
+          <geometry>
+            <box>
+              <size>5.7005613758773475 0.1 3</size>
+            </box>
+          </geometry>
+          <material>
+            <script>
+              <uri>file://media/materials/scripts/gazebo.material</uri>
+              <name>Gazebo/Red</name>
+            </script>
+          </material>
+        </visual>
+      </link>
+    </model>
+    <model name="door_136.2_62.0_0.0">
+      <static>true</static>
+      <pose>136.19500000000698 61.950000000186265 1.5 0 0 -0.013266220046968015</pose>
+      <link name="link">
+        <visual name="visual">
+          <geometry>
+            <box>
+              <size>6.030530656612972 0.1 3</size>
+            </box>
+          </geometry>
+          <material>
+            <script>
+              <uri>file://media/materials/scripts/gazebo.material</uri>
+              <name>Gazebo/Red</name>
+            </script>
+          </material>
+        </visual>
+      </link>
+    </model>
+    <model name="door_108.0_62.3_0.0">
+      <static>true</static>
+      <pose>107.99499999999534 62.34499999997206 1.5 0 0 -0.012258580285916719</pose>
+      <link name="link">
+        <visual name="visual">
+          <geometry>
+            <box>
+              <size>5.710429055644689 0.1 3</size>
+            </box>
+          </geometry>
+          <material>
+            <script>
+              <uri>file://media/materials/scripts/gazebo.material</uri>
+              <name>Gazebo/Red</name>
+            </script>
+          </material>
+        </visual>
+      </link>
+    </model>
+    <model name="door_79.8_43.2_0.0">
+      <static>true</static>
+      <pose>79.82500000001164 43.18500000005588 1.5 0 0 0.42331075582642225</pose>
+      <link name="link">
+        <visual name="visual">
+          <geometry>
+            <box>
+              <size>0.9980981916532635 0.1 3</size>
+            </box>
+          </geometry>
+          <material>
+            <script>
+              <uri>file://media/materials/scripts/gazebo.material</uri>
+              <name>Gazebo/Red</name>
+            </script>
+          </material>
+        </visual>
+      </link>
+    </model>
+    <model name="door_85.3_35.8_0.0">
+      <static>true</static>
+      <pose>85.27999999999884 35.77000000001863 1.5 0 0 0.8424789459730314</pose>
+      <link name="link">
+        <visual name="visual">
+          <geometry>
+            <box>
+              <size>0.9915644206490059 0.1 3</size>
+            </box>
+          </geometry>
+          <material>
+            <script>
+              <uri>file://media/materials/scripts/gazebo.material</uri>
+              <name>Gazebo/Red</name>
+            </script>
+          </material>
+        </visual>
+      </link>
+    </model>
+    <model name="door_102.6_42.5_0.0">
+      <static>true</static>
+      <pose>102.60500000001048 42.48999999999069 1.5 0 0 -0.08271241528552369</pose>
+      <link name="link">
+        <visual name="visual">
+          <geometry>
+            <box>
+              <size>1.9366207682124321 0.1 3</size>
+            </box>
+          </geometry>
+          <material>
+            <script>
+              <uri>file://media/materials/scripts/gazebo.material</uri>
+              <name>Gazebo/Red</name>
+            </script>
+          </material>
+        </visual>
+      </link>
+    </model>
+    <model name="door_101.7_39.1_0.0">
+      <static>true</static>
+      <pose>101.71000000002095 39.06499999994412 1.5 0 0 -0.4219085234522241</pose>
+      <link name="link">
+        <visual name="visual">
+          <geometry>
+            <box>
+              <size>1.9291708063548034 0.1 3</size>
+            </box>
+          </geometry>
+          <material>
+            <script>
+              <uri>file://media/materials/scripts/gazebo.material</uri>
+              <name>Gazebo/Red</name>
+            </script>
+          </material>
+        </visual>
+      </link>
+    </model>
+    <model name="door_103.3_40.6_0.0">
+      <static>true</static>
+      <pose>103.3299999999872 40.59000000008382 1.5 0 0 -1.823690391929414</pose>
+      <link name="link">
+        <visual name="visual">
+          <geometry>
+            <box>
+              <size>1.8384776308918926 0.1 3</size>
+            </box>
+          </geometry>
+          <material>
+            <script>
+              <uri>file://media/materials/scripts/gazebo.material</uri>
+              <name>Gazebo/Red</name>
+            </script>
+          </material>
+        </visual>
+      </link>
+    </model>
+    <model name="door_87.9_57.8_0.0">
+      <static>true</static>
+      <pose>87.93499999999767 57.77499999990687 1.5 0 0 -1.4509545189031208</pose>
+      <link name="link">
+        <visual name="visual">
+          <geometry>
+            <box>
+              <size>1.9237983263743257 0.1 3</size>
+            </box>
+          </geometry>
+          <material>
+            <script>
+              <uri>file://media/materials/scripts/gazebo.material</uri>
+              <name>Gazebo/Red</name>
+            </script>
+          </material>
+        </visual>
+      </link>
+    </model>
+    <model name="door_91.5_57.6_0.0">
+      <static>true</static>
+      <pose>91.49500000002445 57.58999999985099 1.5 0 0 -1.795651920405678</pose>
+      <link name="link">
+        <visual name="visual">
+          <geometry>
+            <box>
+              <size>1.9285486770039746 0.1 3</size>
+            </box>
+          </geometry>
+          <material>
+            <script>
+              <uri>file://media/materials/scripts/gazebo.material</uri>
+              <name>Gazebo/Red</name>
+            </script>
+          </material>
+        </visual>
+      </link>
+    </model>
+    <model name="door_89.2_76.9_0.0">
+      <static>true</static>
+      <pose>89.17999999999302 76.94499999983236 1.5 0 0 0.19349440931601616</pose>
+      <link name="link">
+        <visual name="visual">
+          <geometry>
+            <box>
+              <size>1.508144555394632 0.1 3</size>
+            </box>
+          </geometry>
+          <material>
+            <script>
+              <uri>file://media/materials/scripts/gazebo.material</uri>
+              <name>Gazebo/Red</name>
+            </script>
+          </material>
+        </visual>
+      </link>
+    </model>
+    <model name="door_81.9_88.5_0.0">
+      <static>true</static>
+      <pose>81.91500000000815 88.53499999991618 1.5 0 0 -1.3755746765469539</pose>
+      <link name="link">
+        <visual name="visual">
+          <geometry>
+            <box>
+              <size>1.8042727066855455 0.1 3</size>
+            </box>
+          </geometry>
+          <material>
+            <script>
+              <uri>file://media/materials/scripts/gazebo.material</uri>
+              <name>Gazebo/Red</name>
+            </script>
+          </material>
+        </visual>
+      </link>
+    </model>
+    <model name="door_83.0_77.9_0.0">
+      <static>true</static>
+      <pose>83.01999999998952 77.89500000001863 1.5 0 0 -1.3721104451170056</pose>
+      <link name="link">
+        <visual name="visual">
+          <geometry>
+            <box>
+              <size>1.51990131280261 0.1 3</size>
+            </box>
+          </geometry>
+          <material>
+            <script>
+              <uri>file://media/materials/scripts/gazebo.material</uri>
+              <name>Gazebo/Red</name>
+            </script>
+          </material>
+        </visual>
+      </link>
+    </model>
+    <model name="door_81.9_72.4_0.0">
+      <static>true</static>
+      <pose>81.875 72.38500000000931 1.5 0 0 1.7681918866447774</pose>
+      <link name="link">
+        <visual name="visual">
+          <geometry>
+            <box>
+              <size>1.3767352687650285 0.1 3</size>
+            </box>
+          </geometry>
+          <material>
+            <script>
+              <uri>file://media/materials/scripts/gazebo.material</uri>
+              <name>Gazebo/Green</name>
+            </script>
+          </material>
+        </visual>
+      </link>
+    </model>
+    <model name="door_73.0_120.5_0.0">
+      <static>true</static>
+      <pose>73.04000000000815 120.50499999988824 1.5 0 0 0.19646185337495456</pose>
+      <link name="link">
+        <visual name="visual">
+          <geometry>
+            <box>
+              <size>2.100404722931416 0.1 3</size>
+            </box>
+          </geometry>
+          <material>
+            <script>
+              <uri>file://media/materials/scripts/gazebo.material</uri>
+              <name>Gazebo/Red</name>
+            </script>
+          </material>
+        </visual>
+      </link>
+    </model>
+    <model name="door_95.5_74.5_0.0">
+      <static>true</static>
+      <pose>95.51500000001397 74.51000000000931 1.5 0 0 0.19351316121262999</pose>
+      <link name="link">
+        <visual name="visual">
+          <geometry>
+            <box>
+              <size>3.5360005656156344 0.1 3</size>
+            </box>
+          </geometry>
+          <material>
+            <script>
+              <uri>file://media/materials/scripts/gazebo.material</uri>
+              <name>Gazebo/Red</name>
+            </script>
+          </material>
+        </visual>
+      </link>
+    </model>
+    <model name="door_145.4_61.4_0.0">
+      <static>true</static>
+      <pose>145.44999999998254 61.360000000102445 1.5 0 0 -0.011110653908026076</pose>
+      <link name="link">
+        <visual name="visual">
+          <geometry>
+            <box>
+              <size>1.8001111076705336 0.1 3</size>
+            </box>
+          </geometry>
+          <material>
+            <script>
+              <uri>file://media/materials/scripts/gazebo.material</uri>
+              <name>Gazebo/Red</name>
+            </script>
+          </material>
+        </visual>
+      </link>
+    </model>
+    <model name="door_72.2_68.0_0.0">
+      <static>true</static>
+      <pose>72.16500000003725 68.04500000015832 1.5 0 0 1.767083239622093</pose>
+      <link name="link">
+        <visual name="visual">
+          <geometry>
+            <box>
+              <size>3.5379372523187618 0.1 3</size>
+            </box>
+          </geometry>
+          <material>
+            <script>
+              <uri>file://media/materials/scripts/gazebo.material</uri>
+              <name>Gazebo/Green</name>
+            </script>
+          </material>
+        </visual>
+      </link>
+    </model>
+    <model name="door_90.4_79.5_0.0">
+      <static>true</static>
+      <pose>90.41000000000349 79.52499999990687 1.5 0 0 -1.369193218179265</pose>
+      <link name="link">
+        <visual name="visual">
+          <geometry>
+            <box>
+              <size>1.3983204211800917 0.1 3</size>
+            </box>
+          </geometry>
+          <material>
+            <script>
+              <uri>file://media/materials/scripts/gazebo.material</uri>
+              <name>Gazebo/Red</name>
+            </script>
+          </material>
+        </visual>
+      </link>
+    </model>
+    <model name="door_153.8_39.0_3.2">
+      <static>true</static>
+      <pose>153.77499999999418 38.99500000011176 4.7 0 0 -1.6814535479881518</pose>
+      <link name="link">
+        <visual name="visual">
+          <geometry>
+            <box>
+              <size>0.9960923654221514 0.1 3</size>
+            </box>
+          </geometry>
+          <material>
+            <script>
+              <uri>file://media/materials/scripts/gazebo.material</uri>
+              <name>Gazebo/Red</name>
+            </script>
+          </material>
+        </visual>
+      </link>
+    </model>
+    <model name="door_166.5_39.9_3.2">
+      <static>true</static>
+      <pose>166.50500000000466 39.91000000014901 4.7 0 0 -0.1206236686924795</pose>
+      <link name="link">
+        <visual name="visual">
+          <geometry>
+            <box>
+              <size>0.9972462083198822 0.1 3</size>
+            </box>
+          </geometry>
+          <material>
+            <script>
+              <uri>file://media/materials/scripts/gazebo.material</uri>
+              <name>Gazebo/Red</name>
+            </script>
+          </material>
+        </visual>
+      </link>
+    </model>
+    <model name="door_153.7_45.9_3.2">
+      <static>true</static>
+      <pose>153.6600000000035 45.92999999993481 4.7 0 0 -1.6918235466009592</pose>
+      <link name="link">
+        <visual name="visual">
+          <geometry>
+            <box>
+              <size>1.4909057649436974 0.1 3</size>
+            </box>
+          </geometry>
+          <material>
+            <script>
+              <uri>file://media/materials/scripts/gazebo.material</uri>
+              <name>Gazebo/Red</name>
+            </script>
+          </material>
+        </visual>
+      </link>
+    </model>
+    <model name="door_161.1_40.6_3.2">
+      <static>true</static>
+      <pose>161.1350000000093 40.56000000005588 4.7 0 0 -0.1206236686924795</pose>
+      <link name="link">
+        <visual name="visual">
+          <geometry>
+            <box>
+              <size>0.9972462083198822 0.1 3</size>
+            </box>
+          </geometry>
+          <material>
+            <script>
+              <uri>file://media/materials/scripts/gazebo.material</uri>
+              <name>Gazebo/Red</name>
+            </script>
+          </material>
+        </visual>
+      </link>
+    </model>
+    <model name="door_191.0_47.1_3.2">
+      <static>true</static>
+      <pose>190.97500000000582 47.06499999994412 4.7 0 0 3.02480805813934</pose>
+      <link name="link">
+        <visual name="visual">
+          <geometry>
+            <box>
+              <size>1.8022763383869123 0.1 3</size>
+            </box>
+          </geometry>
+          <material>
+            <script>
+              <uri>file://media/materials/scripts/gazebo.material</uri>
+              <name>Gazebo/Red</name>
+            </script>
+          </material>
+        </visual>
+      </link>
+    </model>
+    <model name="door_180.6_48.3_3.2">
+      <static>true</static>
+      <pose>180.6350000000093 48.31000000005588 4.7 0 0 3.0193009299888676</pose>
+      <link name="link">
+        <visual name="visual">
+          <geometry>
+            <box>
+              <size>1.8034688796923075 0.1 3</size>
+            </box>
+          </geometry>
+          <material>
+            <script>
+              <uri>file://media/materials/scripts/gazebo.material</uri>
+              <name>Gazebo/Red</name>
+            </script>
+          </material>
+        </visual>
+      </link>
+    </model>
+    <model name="door_154.0_40.6_3.2">
+      <static>true</static>
+      <pose>153.9649999999965 40.574999999953434 4.7 0 0 -1.693768196390317</pose>
+      <link name="link">
+        <visual name="visual">
+          <geometry>
+            <box>
+              <size>0.8967719889926413 0.1 3</size>
+            </box>
+          </geometry>
+          <material>
+            <script>
+              <uri>file://media/materials/scripts/gazebo.material</uri>
+              <name>Gazebo/Red</name>
+            </script>
+          </material>
+        </visual>
+      </link>
+    </model>
+    <model name="door_168.1_39.7_3.2">
+      <static>true</static>
+      <pose>168.09500000000116 39.71999999997206 4.7 0 0 -0.12062366822190172</pose>
+      <link name="link">
+        <visual name="visual">
+          <geometry>
+            <box>
+              <size>0.9972462083216332 0.1 3</size>
+            </box>
+          </geometry>
+          <material>
+            <script>
+              <uri>file://media/materials/scripts/gazebo.material</uri>
+              <name>Gazebo/Red</name>
+            </script>
+          </material>
+        </visual>
+      </link>
+    </model>
+    <model name="door_194.4_46.6_3.2">
+      <static>true</static>
+      <pose>194.41500000000815 46.64999999990687 4.7 0 0 3.0193009299849303</pose>
+      <link name="link">
+        <visual name="visual">
+          <geometry>
+            <box>
+              <size>1.8034688796345346 0.1 3</size>
+            </box>
+          </geometry>
+          <material>
+            <script>
+              <uri>file://media/materials/scripts/gazebo.material</uri>
+              <name>Gazebo/Red</name>
+            </script>
+          </material>
+        </visual>
+      </link>
+    </model>
+    <model name="door_204.7_45.4_3.2">
+      <static>true</static>
+      <pose>204.74499999999534 45.40499999979511 4.7 0 0 3.0248080581431034</pose>
+      <link name="link">
+        <visual name="visual">
+          <geometry>
+            <box>
+              <size>1.8022763384447233 0.1 3</size>
+            </box>
+          </geometry>
+          <material>
+            <script>
+              <uri>file://media/materials/scripts/gazebo.material</uri>
+              <name>Gazebo/Red</name>
+            </script>
+          </material>
+        </visual>
+      </link>
+    </model>
+    <model name="door_156.3_47.3_3.2">
+      <static>true</static>
+      <pose>156.25500000000466 47.32000000006519 4.7 0 0 -0.12002333835124222</pose>
+      <link name="link">
+        <visual name="visual">
+          <geometry>
+            <box>
+              <size>2.004420115606183 0.1 3</size>
+            </box>
+          </geometry>
+          <material>
+            <script>
+              <uri>file://media/materials/scripts/gazebo.material</uri>
+              <name>Gazebo/Red</name>
+            </script>
+          </material>
+        </visual>
+      </link>
+    </model>
+    <model name="door_160.4_46.8_3.2">
+      <static>true</static>
+      <pose>160.3850000000093 46.81999999983236 4.7 0 0 -0.1206236686924795</pose>
+      <link name="link">
+        <visual name="visual">
+          <geometry>
+            <box>
+              <size>0.9972462083198822 0.1 3</size>
+            </box>
+          </geometry>
+          <material>
+            <script>
+              <uri>file://media/materials/scripts/gazebo.material</uri>
+              <name>Gazebo/Red</name>
+            </script>
+          </material>
+        </visual>
+      </link>
+    </model>
+    <model name="door_161.8_46.7_3.2">
+      <static>true</static>
+      <pose>161.7600000000093 46.66000000014901 4.7 0 0 -0.11942892612851068</pose>
+      <link name="link">
+        <visual name="visual">
+          <geometry>
+            <box>
+              <size>1.0071742649744493 0.1 3</size>
+            </box>
+          </geometry>
+          <material>
+            <script>
+              <uri>file://media/materials/scripts/gazebo.material</uri>
+              <name>Gazebo/Red</name>
+            </script>
+          </material>
+        </visual>
+      </link>
+    </model>
+    <model name="door_170.5_45.6_3.2">
+      <static>true</static>
+      <pose>170.48499999998603 45.609999999869615 4.7 0 0 -0.1206236686924795</pose>
+      <link name="link">
+        <visual name="visual">
+          <geometry>
+            <box>
+              <size>0.9972462083198822 0.1 3</size>
+            </box>
+          </geometry>
+          <material>
+            <script>
+              <uri>file://media/materials/scripts/gazebo.material</uri>
+              <name>Gazebo/Red</name>
+            </script>
+          </material>
+        </visual>
+      </link>
+    </model>
+    <model name="door_175.8_44.9_3.2">
+      <static>true</static>
+      <pose>175.80500000022585 44.86500000022352 4.7 0 0 1.4540117310915928</pose>
+      <link name="link">
+        <visual name="visual">
+          <geometry>
+            <box>
+              <size>1.802276338498982 0.1 3</size>
+            </box>
+          </geometry>
+          <material>
+            <script>
+              <uri>file://media/materials/scripts/gazebo.material</uri>
+              <name>Gazebo/Green</name>
+            </script>
+          </material>
+        </visual>
+      </link>
+    </model>
+    <model name="door_190.5_42.2_3.2">
+      <static>true</static>
+      <pose>190.5 42.18999999994412 4.7 0 0 -0.12161902311549111</pose>
+      <link name="link">
+        <visual name="visual">
+          <geometry>
+            <box>
+              <size>1.8133946068224918 0.1 3</size>
+            </box>
+          </geometry>
+          <material>
+            <script>
+              <uri>file://media/materials/scripts/gazebo.material</uri>
+              <name>Gazebo/Red</name>
+            </script>
+          </material>
+        </visual>
+      </link>
+    </model>
+    <model name="door_194.0_41.8_3.2">
+      <static>true</static>
+      <pose>194.0350000000035 41.765000000130385 4.7 0 0 -0.11678459545045303</pose>
+      <link name="link">
+        <visual name="visual">
+          <geometry>
+            <box>
+              <size>1.8022763383869123 0.1 3</size>
+            </box>
+          </geometry>
+          <material>
+            <script>
+              <uri>file://media/materials/scripts/gazebo.material</uri>
+              <name>Gazebo/Red</name>
+            </script>
+          </material>
+        </visual>
+      </link>
+    </model>
+    <model name="door_207.6_40.1_3.2">
+      <static>true</static>
+      <pose>207.55999999999767 40.13500000000931 4.7 0 0 -0.11743469003206944</pose>
+      <link name="link">
+        <visual name="visual">
+          <geometry>
+            <box>
+              <size>1.7923448329714338 0.1 3</size>
+            </box>
+          </geometry>
+          <material>
+            <script>
+              <uri>file://media/materials/scripts/gazebo.material</uri>
+              <name>Gazebo/Red</name>
+            </script>
+          </material>
+        </visual>
+      </link>
+    </model>
+    <model name="door_177.8_47.7_3.2">
+      <static>true</static>
+      <pose>177.8499999999185 47.734999999869615 4.7 0 0 -1.6930880506520969</pose>
+      <link name="link">
+        <visual name="visual">
+          <geometry>
+            <box>
+              <size>1.803468879749112 0.1 3</size>
+            </box>
+          </geometry>
+          <material>
+            <script>
+              <uri>file://media/materials/scripts/gazebo.material</uri>
+              <name>Gazebo/Green</name>
+            </script>
+          </material>
+        </visual>
+      </link>
+    </model>
+    <model name="door_168.8_48.8_3.2">
+      <static>true</static>
+      <pose>168.83500000002095 48.825000000186265 4.7 0 0 -1.6875809222415865</pose>
+      <link name="link">
+        <visual name="visual">
+          <geometry>
+            <box>
+              <size>1.8022763384447233 0.1 3</size>
+            </box>
+          </geometry>
+          <material>
+            <script>
+              <uri>file://media/materials/scripts/gazebo.material</uri>
+              <name>Gazebo/Green</name>
+            </script>
+          </material>
+        </visual>
+      </link>
+    </model>
+    <model name="door_162.6_50.5_3.2">
+      <static>true</static>
+      <pose>162.57000000000698 50.484999999869615 4.7 0 0 3.02415796381574</pose>
+      <link name="link">
+        <visual name="visual">
+          <geometry>
+            <box>
+              <size>1.7923448329168745 0.1 3</size>
+            </box>
+          </geometry>
+          <material>
+            <script>
+              <uri>file://media/materials/scripts/gazebo.material</uri>
+              <name>Gazebo/Red</name>
+            </script>
+          </material>
+        </visual>
+      </link>
+    </model>
+    <model name="door_173.6_44.2_3.2">
+      <static>true</static>
+      <pose>173.6149999999907 44.21999999997206 4.7 0 0 -0.12022278677294355</pose>
+      <link name="link">
+        <visual name="visual">
+          <geometry>
+            <box>
+              <size>1.5008331019912227 0.1 3</size>
+            </box>
+          </geometry>
+          <material>
+            <script>
+              <uri>file://media/materials/scripts/gazebo.material</uri>
+              <name>Gazebo/Red</name>
+            </script>
+          </material>
+        </visual>
+      </link>
+    </model>
+    <model name="door_214.1_39.3_3.2">
+      <static>true</static>
+      <pose>214.1350000000093 39.34499999997206 4.7 0 0 -0.11870533746682131</pose>
+      <link name="link">
+        <visual name="visual">
+          <geometry>
+            <box>
+              <size>1.097724920014552 0.1 3</size>
+            </box>
+          </geometry>
+          <material>
+            <script>
+              <uri>file://media/materials/scripts/gazebo.material</uri>
+              <name>Gazebo/Red</name>
+            </script>
+          </material>
+        </visual>
+      </link>
+    </model>
+    <model name="door_214.4_40.5_3.2">
+      <static>true</static>
+      <pose>214.44000000006054 40.52000000001863 4.7 0 0 3.0182549527621143</pose>
+      <link name="link">
+        <visual name="visual">
+          <geometry>
+            <box>
+              <size>2.438524143724567 0.1 3</size>
+            </box>
+          </geometry>
+          <material>
+            <script>
+              <uri>file://media/materials/scripts/gazebo.material</uri>
+              <name>Gazebo/Green</name>
+            </script>
+          </material>
+        </visual>
+      </link>
+    </model>
+    <model name="door_208.1_45.0_3.2">
+      <static>true</static>
+      <pose>208.09500000000116 45.0 4.7 0 0 3.0193009299849303</pose>
+      <link name="link">
+        <visual name="visual">
+          <geometry>
+            <box>
+              <size>1.8034688796345346 0.1 3</size>
+            </box>
+          </geometry>
+          <material>
+            <script>
+              <uri>file://media/materials/scripts/gazebo.material</uri>
+              <name>Gazebo/Red</name>
+            </script>
+          </material>
+        </visual>
+      </link>
+    </model>
+    <model name="door_170.0_41.7_3.2">
+      <static>true</static>
+      <pose>170.0100000000093 41.68999999994412 4.7 0 0 -0.11942892612851068</pose>
+      <link name="link">
+        <visual name="visual">
+          <geometry>
+            <box>
+              <size>1.0071742649744493 0.1 3</size>
+            </box>
+          </geometry>
+          <material>
+            <script>
+              <uri>file://media/materials/scripts/gazebo.material</uri>
+              <name>Gazebo/Red</name>
+            </script>
+          </material>
+        </visual>
+      </link>
+    </model>
+    <model name="door_154.2_42.2_3.2">
+      <static>true</static>
+      <pose>154.15000000002328 42.15500000002794 4.7 0 0 -1.6914199953995817</pose>
+      <link name="link">
+        <visual name="visual">
+          <geometry>
+            <box>
+              <size>0.997246208074735 0.1 3</size>
+            </box>
+          </geometry>
+          <material>
+            <script>
+              <uri>file://media/materials/scripts/gazebo.material</uri>
+              <name>Gazebo/Red</name>
+            </script>
+          </material>
+        </visual>
+      </link>
+    </model>
+    <model name="door_157.5_41.9_3.2">
+      <static>true</static>
+      <pose>157.51500000001397 41.94500000006519 4.7 0 0 -1.6895016639081246</pose>
+      <link name="link">
+        <visual name="visual">
+          <geometry>
+            <box>
+              <size>1.0977249203199801 0.1 3</size>
+            </box>
+          </geometry>
+          <material>
+            <script>
+              <uri>file://media/materials/scripts/gazebo.material</uri>
+              <name>Gazebo/Red</name>
+            </script>
+          </material>
+        </visual>
+      </link>
+    </model>
+    <model name="door_154.9_36.9_3.2">
+      <static>true</static>
+      <pose>154.86999999999534 36.85000000009313 4.7 0 0 -0.11990398547329398</pose>
+      <link name="link">
+        <visual name="visual">
+          <geometry>
+            <box>
+              <size>1.6720047847367918 0.1 3</size>
+            </box>
+          </geometry>
+          <material>
+            <script>
+              <uri>file://media/materials/scripts/gazebo.material</uri>
+              <name>Gazebo/Red</name>
+            </script>
+          </material>
+        </visual>
+      </link>
+    </model>
+    <model name="door_159.5_40.8_3.2">
+      <static>true</static>
+      <pose>159.5449999999837 40.75 4.7 0 0 -0.1206236686924795</pose>
+      <link name="link">
+        <visual name="visual">
+          <geometry>
+            <box>
+              <size>0.9972462083198822 0.1 3</size>
+            </box>
+          </geometry>
+          <material>
+            <script>
+              <uri>file://media/materials/scripts/gazebo.material</uri>
+              <name>Gazebo/Red</name>
+            </script>
+          </material>
+        </visual>
+      </link>
+    </model>
+    <model name="door_171.6_39.3_3.2">
+      <static>true</static>
+      <pose>171.56500000000233 39.300000000046566 4.7 0 0 -0.12062366822892527</pose>
+      <link name="link">
+        <visual name="visual">
+          <geometry>
+            <box>
+              <size>0.9972462082638486 0.1 3</size>
+            </box>
+          </geometry>
+          <material>
+            <script>
+              <uri>file://media/materials/scripts/gazebo.material</uri>
+              <name>Gazebo/Red</name>
+            </script>
+          </material>
+        </visual>
+      </link>
+    </model>
+    <model name="door_80.2_77.2_3.2">
+      <static>true</static>
+      <pose>80.19499999997788 77.22500000009313 4.7 0 0 -1.3773690000310248</pose>
+      <link name="link">
+        <visual name="visual">
+          <geometry>
+            <box>
+              <size>0.9884331031966657 0.1 3</size>
+            </box>
+          </geometry>
+          <material>
+            <script>
+              <uri>file://media/materials/scripts/gazebo.material</uri>
+              <name>Gazebo/Red</name>
+            </script>
+          </material>
+        </visual>
+      </link>
+    </model>
+    <model name="door_135.5_76.8_3.2">
+      <static>true</static>
+      <pose>135.49499999999534 76.79000000003725 4.7 0 0 -0.10022174961299568</pose>
+      <link name="link">
+        <visual name="visual">
+          <geometry>
+            <box>
+              <size>1.799027515083101 0.1 3</size>
+            </box>
+          </geometry>
+          <material>
+            <script>
+              <uri>file://media/materials/scripts/gazebo.material</uri>
+              <name>Gazebo/Red</name>
+            </script>
+          </material>
+        </visual>
+      </link>
+    </model>
+    <model name="door_132.7_77.1_3.2">
+      <static>true</static>
+      <pose>132.7049999999872 77.07000000006519 4.7 0 0 -0.10022174987377463</pose>
+      <link name="link">
+        <visual name="visual">
+          <geometry>
+            <box>
+              <size>1.7990275150717767 0.1 3</size>
+            </box>
+          </geometry>
+          <material>
+            <script>
+              <uri>file://media/materials/scripts/gazebo.material</uri>
+              <name>Gazebo/Red</name>
+            </script>
+          </material>
+        </visual>
+      </link>
+    </model>
+    <model name="door_112.2_77.9_3.2">
+      <static>true</static>
+      <pose>112.1699999999837 77.92500000004657 4.7 0 0 -0.09966865283695012</pose>
+      <link name="link">
+        <visual name="visual">
+          <geometry>
+            <box>
+              <size>0.9044888059555555 0.1 3</size>
+            </box>
+          </geometry>
+          <material>
+            <script>
+              <uri>file://media/materials/scripts/gazebo.material</uri>
+              <name>Gazebo/Red</name>
+            </script>
+          </material>
+        </visual>
+      </link>
+    </model>
+    <model name="door_104.7_79.7_3.2">
+      <static>true</static>
+      <pose>104.70999999999185 79.65999999991618 4.7 0 0 -1.6724851785951633</pose>
+      <link name="link">
+        <visual name="visual">
+          <geometry>
+            <box>
+              <size>0.9850888284669952 0.1 3</size>
+            </box>
+          </geometry>
+          <material>
+            <script>
+              <uri>file://media/materials/scripts/gazebo.material</uri>
+              <name>Gazebo/Red</name>
+            </script>
+          </material>
+        </visual>
+      </link>
+    </model>
+    <model name="door_104.9_83.1_3.2">
+      <static>true</static>
+      <pose>104.86999999999534 83.12999999988824 4.7 0 0 1.4711276743267871</pose>
+      <link name="link">
+        <visual name="visual">
+          <geometry>
+            <box>
+              <size>1.0049875621097721 0.1 3</size>
+            </box>
+          </geometry>
+          <material>
+            <script>
+              <uri>file://media/materials/scripts/gazebo.material</uri>
+              <name>Gazebo/Red</name>
+            </script>
+          </material>
+        </visual>
+      </link>
+    </model>
+    <model name="door_105.1_85.5_3.2">
+      <static>true</static>
+      <pose>105.10999999998603 85.53499999991618 4.7 0 0 1.4589060606653106</pose>
+      <link name="link">
+        <visual name="visual">
+          <geometry>
+            <box>
+              <size>0.895600357429266 0.1 3</size>
+            </box>
+          </geometry>
+          <material>
+            <script>
+              <uri>file://media/materials/scripts/gazebo.material</uri>
+              <name>Gazebo/Red</name>
+            </script>
+          </material>
+        </visual>
+      </link>
+    </model>
+    <model name="door_110.6_86.8_3.2">
+      <static>true</static>
+      <pose>110.55999999999767 86.81499999994412 4.7 0 0 1.4701276746829237</pose>
+      <link name="link">
+        <visual name="visual">
+          <geometry>
+            <box>
+              <size>0.9950376879485058 0.1 3</size>
+            </box>
+          </geometry>
+          <material>
+            <script>
+              <uri>file://media/materials/scripts/gazebo.material</uri>
+              <name>Gazebo/Red</name>
+            </script>
+          </material>
+        </visual>
+      </link>
+    </model>
+    <model name="door_102.4_88.9_3.2">
+      <static>true</static>
+      <pose>102.38000000000466 88.94000000017695 4.7 0 0 -0.09966865258337218</pose>
+      <link name="link">
+        <visual name="visual">
+          <geometry>
+            <box>
+              <size>1.004987562121356 0.1 3</size>
+            </box>
+          </geometry>
+          <material>
+            <script>
+              <uri>file://media/materials/scripts/gazebo.material</uri>
+              <name>Gazebo/Red</name>
+            </script>
+          </material>
+        </visual>
+      </link>
+    </model>
+    <model name="door_107.8_88.4_3.2">
+      <static>true</static>
+      <pose>107.78999999997905 88.4000000001397 4.7 0 0 -0.09966865258337218</pose>
+      <link name="link">
+        <visual name="visual">
+          <geometry>
+            <box>
+              <size>1.004987562121356 0.1 3</size>
+            </box>
+          </geometry>
+          <material>
+            <script>
+              <uri>file://media/materials/scripts/gazebo.material</uri>
+              <name>Gazebo/Red</name>
+            </script>
+          </material>
+        </visual>
+      </link>
+    </model>
+    <model name="door_102.5_80.0_3.2">
+      <static>true</static>
+      <pose>102.52499999999418 79.9550000000745 4.7 0 0 -1.6711294309773623</pose>
+      <link name="link">
+        <visual name="visual">
+          <geometry>
+            <box>
+              <size>1.4975313020620318 0.1 3</size>
+            </box>
+          </geometry>
+          <material>
+            <script>
+              <uri>file://media/materials/scripts/gazebo.material</uri>
+              <name>Gazebo/Red</name>
+            </script>
+          </material>
+        </visual>
+      </link>
+    </model>
+    <model name="door_102.7_79.6_3.2">
+      <static>true</static>
+      <pose>102.69000000006054 79.59000000008382 4.7 0 0 1.4711276742268928</pose>
+      <link name="link">
+        <visual name="visual">
+          <geometry>
+            <box>
+              <size>1.808977612096451 0.1 3</size>
+            </box>
+          </geometry>
+          <material>
+            <script>
+              <uri>file://media/materials/scripts/gazebo.material</uri>
+              <name>Gazebo/Green</name>
+            </script>
+          </material>
+        </visual>
+      </link>
+    </model>
+    <model name="door_104.6_80.8_3.2">
+      <static>true</static>
+      <pose>104.625 80.77000000001863 4.7 0 0 -1.6704649792092168</pose>
+      <link name="link">
+        <visual name="visual">
+          <geometry>
+            <box>
+              <size>0.904488806268317 0.1 3</size>
+            </box>
+          </geometry>
+          <material>
+            <script>
+              <uri>file://media/materials/scripts/gazebo.material</uri>
+              <name>Gazebo/Red</name>
+            </script>
+          </material>
+        </visual>
+      </link>
+    </model>
+    <model name="door_121.5_78.2_3.2">
+      <static>true</static>
+      <pose>121.54000000000815 78.20999999996275 4.7 0 0 -0.09966865232787321</pose>
+      <link name="link">
+        <visual name="visual">
+          <geometry>
+            <box>
+              <size>1.808977611760522 0.1 3</size>
+            </box>
+          </geometry>
+          <material>
+            <script>
+              <uri>file://media/materials/scripts/gazebo.material</uri>
+              <name>Gazebo/Red</name>
+            </script>
+          </material>
+        </visual>
+      </link>
+    </model>
+    <model name="door_118.0_79.5_3.2">
+      <static>true</static>
+      <pose>117.96999999985565 79.46499999985099 4.7 0 0 1.470574577181901</pose>
+      <link name="link">
+        <visual name="visual">
+          <geometry>
+            <box>
+              <size>1.799027515083101 0.1 3</size>
+            </box>
+          </geometry>
+          <material>
+            <script>
+              <uri>file://media/materials/scripts/gazebo.material</uri>
+              <name>Gazebo/Green</name>
+            </script>
+          </material>
+        </visual>
+      </link>
+    </model>
+    <model name="door_142.5_81.3_3.2">
+      <static>true</static>
+      <pose>142.54999999998836 81.33499999996275 4.7 0 0 -0.09966865273705577</pose>
+      <link name="link">
+        <visual name="visual">
+          <geometry>
+            <box>
+              <size>1.5074813432052014 0.1 3</size>
+            </box>
+          </geometry>
+          <material>
+            <script>
+              <uri>file://media/materials/scripts/gazebo.material</uri>
+              <name>Gazebo/Red</name>
+            </script>
+          </material>
+        </visual>
+      </link>
+    </model>
+    <model name="door_138.2_70.8_3.2">
+      <static>true</static>
+      <pose>138.2149999999965 70.78000000002794 4.7 0 0 -0.01104927408967263</pose>
+      <link name="link">
+        <visual name="visual">
+          <geometry>
+            <box>
+              <size>1.810110493862824 0.1 3</size>
+            </box>
+          </geometry>
+          <material>
+            <script>
+              <uri>file://media/materials/scripts/gazebo.material</uri>
+              <name>Gazebo/Red</name>
+            </script>
+          </material>
+        </visual>
+      </link>
+    </model>
+    <model name="door_127.1_71.0_3.2">
+      <static>true</static>
+      <pose>127.05000000001746 70.9550000000745 4.7 0 0 3.1249275297309125</pose>
+      <link name="link">
+        <visual name="visual">
+          <geometry>
+            <box>
+              <size>1.8002499826340055 0.1 3</size>
+            </box>
+          </geometry>
+          <material>
+            <script>
+              <uri>file://media/materials/scripts/gazebo.material</uri>
+              <name>Gazebo/Red</name>
+            </script>
+          </material>
+        </visual>
+      </link>
+    </model>
+    <model name="door_124.3_71.0_3.2">
+      <static>true</static>
+      <pose>124.26499999998487 70.98999999999069 4.7 0 0 3.1305433795001205</pose>
+      <link name="link">
+        <visual name="visual">
+          <geometry>
+            <box>
+              <size>1.810110493862824 0.1 3</size>
+            </box>
+          </geometry>
+          <material>
+            <script>
+              <uri>file://media/materials/scripts/gazebo.material</uri>
+              <name>Gazebo/Red</name>
+            </script>
+          </material>
+        </visual>
+      </link>
+    </model>
+    <model name="door_113.0_71.1_3.2">
+      <static>true</static>
+      <pose>113.03500000000349 71.13000000012107 4.7 0 0 3.1305433795001205</pose>
+      <link name="link">
+        <visual name="visual">
+          <geometry>
+            <box>
+              <size>1.810110493862824 0.1 3</size>
+            </box>
+          </geometry>
+          <material>
+            <script>
+              <uri>file://media/materials/scripts/gazebo.material</uri>
+              <name>Gazebo/Red</name>
+            </script>
+          </material>
+        </visual>
+      </link>
+    </model>
+    <model name="door_110.2_71.2_3.2">
+      <static>true</static>
+      <pose>110.23500000001513 71.17000000015832 4.7 0 0 3.1305433795001205</pose>
+      <link name="link">
+        <visual name="visual">
+          <geometry>
+            <box>
+              <size>1.810110493862824 0.1 3</size>
+            </box>
+          </geometry>
+          <material>
+            <script>
+              <uri>file://media/materials/scripts/gazebo.material</uri>
+              <name>Gazebo/Red</name>
+            </script>
+          </material>
+        </visual>
+      </link>
+    </model>
+    <model name="door_143.5_73.3_3.2">
+      <static>true</static>
+      <pose>143.4550000000163 73.29500000015832 4.7 0 0 1.4718835320591757</pose>
+      <link name="link">
+        <visual name="visual">
+          <geometry>
+            <box>
+              <size>1.3164345787571878 0.1 3</size>
+            </box>
+          </geometry>
+          <material>
+            <script>
+              <uri>file://media/materials/scripts/gazebo.material</uri>
+              <name>Gazebo/Red</name>
+            </script>
+          </material>
+        </visual>
+      </link>
+    </model>
+    <model name="door_103.2_73.0_3.2">
+      <static>true</static>
+      <pose>103.15500000014435 73.02000000025146 4.7 0 0 -2.9552965370366153</pose>
+      <link name="link">
+        <visual name="visual">
+          <geometry>
+            <box>
+              <size>1.9436306230085285 0.1 3</size>
+            </box>
+          </geometry>
+          <material>
+            <script>
+              <uri>file://media/materials/scripts/gazebo.material</uri>
+              <name>Gazebo/Green</name>
+            </script>
+          </material>
+        </visual>
+      </link>
+    </model>
+    <model name="door_71.7_114.6_3.2">
+      <static>true</static>
+      <pose>71.72999999998137 114.55000000004657 4.7 0 0 -1.3690339825092397</pose>
+      <link name="link">
+        <visual name="visual">
+          <geometry>
+            <box>
+              <size>1.796440926065282 0.1 3</size>
+            </box>
+          </geometry>
+          <material>
+            <script>
+              <uri>file://media/materials/scripts/gazebo.material</uri>
+              <name>Gazebo/Red</name>
+            </script>
+          </material>
+        </visual>
+      </link>
+    </model>
+    <model name="door_72.4_111.0_3.2">
+      <static>true</static>
+      <pose>72.43499999999767 111.04000000003725 4.7 0 0 -1.3744936626731843</pose>
+      <link name="link">
+        <visual name="visual">
+          <geometry>
+            <box>
+              <size>1.7944637079631676 0.1 3</size>
+            </box>
+          </geometry>
+          <material>
+            <script>
+              <uri>file://media/materials/scripts/gazebo.material</uri>
+              <name>Gazebo/Red</name>
+            </script>
+          </material>
+        </visual>
+      </link>
+    </model>
+    <model name="door_74.4_101.3_3.2">
+      <static>true</static>
+      <pose>74.38000000000466 101.26000000000931 4.7 0 0 -1.3690339825092397</pose>
+      <link name="link">
+        <visual name="visual">
+          <geometry>
+            <box>
+              <size>1.796440926065282 0.1 3</size>
+            </box>
+          </geometry>
+          <material>
+            <script>
+              <uri>file://media/materials/scripts/gazebo.material</uri>
+              <name>Gazebo/Red</name>
+            </script>
+          </material>
+        </visual>
+      </link>
+    </model>
+    <model name="door_75.1_97.8_3.2">
+      <static>true</static>
+      <pose>75.0800000000163 97.75 4.7 0 0 -1.3690339824572944</pose>
+      <link name="link">
+        <visual name="visual">
+          <geometry>
+            <box>
+              <size>1.7964409256090668 0.1 3</size>
+            </box>
+          </geometry>
+          <material>
+            <script>
+              <uri>file://media/materials/scripts/gazebo.material</uri>
+              <name>Gazebo/Red</name>
+            </script>
+          </material>
+        </visual>
+      </link>
+    </model>
+    <model name="door_77.2_87.2_3.2">
+      <static>true</static>
+      <pose>77.19000000000233 87.18999999994412 4.7 0 0 -1.3690339824572944</pose>
+      <link name="link">
+        <visual name="visual">
+          <geometry>
+            <box>
+              <size>1.7964409256090668 0.1 3</size>
+            </box>
+          </geometry>
+          <material>
+            <script>
+              <uri>file://media/materials/scripts/gazebo.material</uri>
+              <name>Gazebo/Red</name>
+            </script>
+          </material>
+        </visual>
+      </link>
+    </model>
+    <model name="door_77.9_83.7_3.2">
+      <static>true</static>
+      <pose>77.88500000000931 83.6699999999255 4.7 0 0 -1.3744936626731843</pose>
+      <link name="link">
+        <visual name="visual">
+          <geometry>
+            <box>
+              <size>1.7944637079631676 0.1 3</size>
+            </box>
+          </geometry>
+          <material>
+            <script>
+              <uri>file://media/materials/scripts/gazebo.material</uri>
+              <name>Gazebo/Red</name>
+            </script>
+          </material>
+        </visual>
+      </link>
+    </model>
+    <model name="door_76.4_75.6_3.2">
+      <static>true</static>
+      <pose>76.39000000001397 75.57500000018626 4.7 0 0 0.19083110263865674</pose>
+      <link name="link">
+        <visual name="visual">
+          <geometry>
+            <box>
+              <size>0.8962700485807075 0.1 3</size>
+            </box>
+          </geometry>
+          <material>
+            <script>
+              <uri>file://media/materials/scripts/gazebo.material</uri>
+              <name>Gazebo/Red</name>
+            </script>
+          </material>
+        </visual>
+      </link>
+    </model>
+    <model name="door_75.8_74.0_3.2">
+      <static>true</static>
+      <pose>75.83999999999651 74.0 4.7 0 0 -1.3690339824572944</pose>
+      <link name="link">
+        <visual name="visual">
+          <geometry>
+            <box>
+              <size>0.8982204628045334 0.1 3</size>
+            </box>
+          </geometry>
+          <material>
+            <script>
+              <uri>file://media/materials/scripts/gazebo.material</uri>
+              <name>Gazebo/Red</name>
+            </script>
+          </material>
+        </visual>
+      </link>
+    </model>
+    <model name="door_78.6_105.4_3.2">
+      <static>true</static>
+      <pose>78.55999999999767 105.38999999989755 4.7 0 0 -1.3690339825092397</pose>
+      <link name="link">
+        <visual name="visual">
+          <geometry>
+            <box>
+              <size>1.796440926065282 0.1 3</size>
+            </box>
+          </geometry>
+          <material>
+            <script>
+              <uri>file://media/materials/scripts/gazebo.material</uri>
+              <name>Gazebo/Red</name>
+            </script>
+          </material>
+        </visual>
+      </link>
+    </model>
+    <model name="door_76.5_115.5_3.2">
+      <static>true</static>
+      <pose>76.53999999997905 115.50500000012107 4.7 0 0 -1.3701434494846443</pose>
+      <link name="link">
+        <visual name="visual">
+          <geometry>
+            <box>
+              <size>1.8062391868343128 0.1 3</size>
+            </box>
+          </geometry>
+          <material>
+            <script>
+              <uri>file://media/materials/scripts/gazebo.material</uri>
+              <name>Gazebo/Red</name>
+            </script>
+          </material>
+        </visual>
+      </link>
+    </model>
+    <model name="door_79.2_102.2_3.2">
+      <static>true</static>
+      <pose>79.18499999999767 102.20999999996275 4.7 0 0 -1.3744936626731843</pose>
+      <link name="link">
+        <visual name="visual">
+          <geometry>
+            <box>
+              <size>1.7944637079631676 0.1 3</size>
+            </box>
+          </geometry>
+          <material>
+            <script>
+              <uri>file://media/materials/scripts/gazebo.material</uri>
+              <name>Gazebo/Red</name>
+            </script>
+          </material>
+        </visual>
+      </link>
+    </model>
+    <model name="door_81.3_91.7_3.2">
+      <static>true</static>
+      <pose>81.2949999999837 91.65999999991618 4.7 0 0 -1.374493662723798</pose>
+      <link name="link">
+        <visual name="visual">
+          <geometry>
+            <box>
+              <size>1.7944637084198858 0.1 3</size>
+            </box>
+          </geometry>
+          <material>
+            <script>
+              <uri>file://media/materials/scripts/gazebo.material</uri>
+              <name>Gazebo/Red</name>
+            </script>
+          </material>
+        </visual>
+      </link>
+    </model>
+    <model name="door_81.1_72.9_3.2">
+      <static>true</static>
+      <pose>81.05000000001746 72.92000000015832 4.7 0 0 1.7721134351846652</pose>
+      <link name="link">
+        <visual name="visual">
+          <geometry>
+            <box>
+              <size>1.0001999799880765 0.1 3</size>
+            </box>
+          </geometry>
+          <material>
+            <script>
+              <uri>file://media/materials/scripts/gazebo.material</uri>
+              <name>Gazebo/Red</name>
+            </script>
+          </material>
+        </visual>
+      </link>
+    </model>
+    <model name="door_81.6_67.9_3.2">
+      <static>true</static>
+      <pose>81.55000000001746 67.88999999989755 4.7 0 0 0.2009542638673007</pose>
+      <link name="link">
+        <visual name="visual">
+          <geometry>
+            <box>
+              <size>1.1021796587332557 0.1 3</size>
+            </box>
+          </geometry>
+          <material>
+            <script>
+              <uri>file://media/materials/scripts/gazebo.material</uri>
+              <name>Gazebo/Red</name>
+            </script>
+          </material>
+        </visual>
+      </link>
+    </model>
+    <model name="door_75.1_117.8_3.2">
+      <static>true</static>
+      <pose>75.06500000000233 117.75500000012107 4.7 0 0 -1.376431060702658</pose>
+      <link name="link">
+        <visual name="visual">
+          <geometry>
+            <box>
+              <size>1.2943724348298333 0.1 3</size>
+            </box>
+          </geometry>
+          <material>
+            <script>
+              <uri>file://media/materials/scripts/gazebo.material</uri>
+              <name>Gazebo/Red</name>
+            </script>
+          </material>
+        </visual>
+      </link>
+    </model>
+    <model name="door_115.0_62.2_3.2">
+      <static>true</static>
+      <pose>115.0 62.23999999999069 4.7 0 0 -0.014034166198596688</pose>
+      <link name="link">
+        <visual name="visual">
+          <geometry>
+            <box>
+              <size>5.700561375812611 0.1 3</size>
+            </box>
+          </geometry>
+          <material>
+            <script>
+              <uri>file://media/materials/scripts/gazebo.material</uri>
+              <name>Gazebo/Red</name>
+            </script>
+          </material>
+        </visual>
+      </link>
+    </model>
+    <model name="door_129.0_62.0_3.2">
+      <static>true</static>
+      <pose>129.01999999998952 62.049999999813735 4.7 0 0 -0.014034166280132265</pose>
+      <link name="link">
+        <visual name="visual">
+          <geometry>
+            <box>
+              <size>5.7005613758773475 0.1 3</size>
+            </box>
+          </geometry>
+          <material>
+            <script>
+              <uri>file://media/materials/scripts/gazebo.material</uri>
+              <name>Gazebo/Red</name>
+            </script>
+          </material>
+        </visual>
+      </link>
+    </model>
+    <model name="door_136.2_62.0_3.2">
+      <static>true</static>
+      <pose>136.19500000000698 61.950000000186265 4.7 0 0 -0.013266220046968015</pose>
+      <link name="link">
+        <visual name="visual">
+          <geometry>
+            <box>
+              <size>6.030530656612972 0.1 3</size>
+            </box>
+          </geometry>
+          <material>
+            <script>
+              <uri>file://media/materials/scripts/gazebo.material</uri>
+              <name>Gazebo/Red</name>
+            </script>
+          </material>
+        </visual>
+      </link>
+    </model>
+    <model name="door_108.0_62.3_3.2">
+      <static>true</static>
+      <pose>107.99499999999534 62.34499999997206 4.7 0 0 -0.012258580285916719</pose>
+      <link name="link">
+        <visual name="visual">
+          <geometry>
+            <box>
+              <size>5.710429055644689 0.1 3</size>
+            </box>
+          </geometry>
+          <material>
+            <script>
+              <uri>file://media/materials/scripts/gazebo.material</uri>
+              <name>Gazebo/Red</name>
+            </script>
+          </material>
+        </visual>
+      </link>
+    </model>
+    <model name="door_79.8_43.2_3.2">
+      <static>true</static>
+      <pose>79.82500000001164 43.18500000005588 4.7 0 0 0.42331075582642225</pose>
+      <link name="link">
+        <visual name="visual">
+          <geometry>
+            <box>
+              <size>0.9980981916532635 0.1 3</size>
+            </box>
+          </geometry>
+          <material>
+            <script>
+              <uri>file://media/materials/scripts/gazebo.material</uri>
+              <name>Gazebo/Red</name>
+            </script>
+          </material>
+        </visual>
+      </link>
+    </model>
+    <model name="door_85.3_35.8_3.2">
+      <static>true</static>
+      <pose>85.27999999999884 35.77000000001863 4.7 0 0 0.8424789459730314</pose>
+      <link name="link">
+        <visual name="visual">
+          <geometry>
+            <box>
+              <size>0.9915644206490059 0.1 3</size>
+            </box>
+          </geometry>
+          <material>
+            <script>
+              <uri>file://media/materials/scripts/gazebo.material</uri>
+              <name>Gazebo/Red</name>
+            </script>
+          </material>
+        </visual>
+      </link>
+    </model>
+    <model name="door_102.6_42.5_3.2">
+      <static>true</static>
+      <pose>102.60500000001048 42.48999999999069 4.7 0 0 -0.08271241528552369</pose>
+      <link name="link">
+        <visual name="visual">
+          <geometry>
+            <box>
+              <size>1.9366207682124321 0.1 3</size>
+            </box>
+          </geometry>
+          <material>
+            <script>
+              <uri>file://media/materials/scripts/gazebo.material</uri>
+              <name>Gazebo/Red</name>
+            </script>
+          </material>
+        </visual>
+      </link>
+    </model>
+    <model name="door_101.7_39.1_3.2">
+      <static>true</static>
+      <pose>101.71000000002095 39.06499999994412 4.7 0 0 -0.4219085234522241</pose>
+      <link name="link">
+        <visual name="visual">
+          <geometry>
+            <box>
+              <size>1.9291708063548034 0.1 3</size>
+            </box>
+          </geometry>
+          <material>
+            <script>
+              <uri>file://media/materials/scripts/gazebo.material</uri>
+              <name>Gazebo/Red</name>
+            </script>
+          </material>
+        </visual>
+      </link>
+    </model>
+    <model name="door_103.3_40.6_3.2">
+      <static>true</static>
+      <pose>103.3299999999872 40.59000000008382 4.7 0 0 -1.823690391929414</pose>
+      <link name="link">
+        <visual name="visual">
+          <geometry>
+            <box>
+              <size>1.8384776308918926 0.1 3</size>
+            </box>
+          </geometry>
+          <material>
+            <script>
+              <uri>file://media/materials/scripts/gazebo.material</uri>
+              <name>Gazebo/Red</name>
+            </script>
+          </material>
+        </visual>
+      </link>
+    </model>
+    <model name="door_87.9_57.8_3.2">
+      <static>true</static>
+      <pose>87.93499999999767 57.77499999990687 4.7 0 0 -1.4509545189031208</pose>
+      <link name="link">
+        <visual name="visual">
+          <geometry>
+            <box>
+              <size>1.9237983263743257 0.1 3</size>
+            </box>
+          </geometry>
+          <material>
+            <script>
+              <uri>file://media/materials/scripts/gazebo.material</uri>
+              <name>Gazebo/Red</name>
+            </script>
+          </material>
+        </visual>
+      </link>
+    </model>
+    <model name="door_91.5_57.6_3.2">
+      <static>true</static>
+      <pose>91.49500000002445 57.58999999985099 4.7 0 0 -1.795651920405678</pose>
+      <link name="link">
+        <visual name="visual">
+          <geometry>
+            <box>
+              <size>1.9285486770039746 0.1 3</size>
+            </box>
+          </geometry>
+          <material>
+            <script>
+              <uri>file://media/materials/scripts/gazebo.material</uri>
+              <name>Gazebo/Red</name>
+            </script>
+          </material>
+        </visual>
+      </link>
+    </model>
+    <model name="door_89.2_76.9_3.2">
+      <static>true</static>
+      <pose>89.17999999999302 76.94499999983236 4.7 0 0 0.19349440931601616</pose>
+      <link name="link">
+        <visual name="visual">
+          <geometry>
+            <box>
+              <size>1.508144555394632 0.1 3</size>
+            </box>
+          </geometry>
+          <material>
+            <script>
+              <uri>file://media/materials/scripts/gazebo.material</uri>
+              <name>Gazebo/Red</name>
+            </script>
+          </material>
+        </visual>
+      </link>
+    </model>
+    <model name="door_81.9_88.5_3.2">
+      <static>true</static>
+      <pose>81.91500000000815 88.53499999991618 4.7 0 0 -1.3755746765469539</pose>
+      <link name="link">
+        <visual name="visual">
+          <geometry>
+            <box>
+              <size>1.8042727066855455 0.1 3</size>
+            </box>
+          </geometry>
+          <material>
+            <script>
+              <uri>file://media/materials/scripts/gazebo.material</uri>
+              <name>Gazebo/Red</name>
+            </script>
+          </material>
+        </visual>
+      </link>
+    </model>
+    <model name="door_83.0_77.9_3.2">
+      <static>true</static>
+      <pose>83.01999999998952 77.89500000001863 4.7 0 0 -1.3721104451170056</pose>
+      <link name="link">
+        <visual name="visual">
+          <geometry>
+            <box>
+              <size>1.51990131280261 0.1 3</size>
+            </box>
+          </geometry>
+          <material>
+            <script>
+              <uri>file://media/materials/scripts/gazebo.material</uri>
+              <name>Gazebo/Red</name>
+            </script>
+          </material>
+        </visual>
+      </link>
+    </model>
+    <model name="door_81.9_72.4_3.2">
+      <static>true</static>
+      <pose>81.875 72.38500000000931 4.7 0 0 1.7681918866447774</pose>
+      <link name="link">
+        <visual name="visual">
+          <geometry>
+            <box>
+              <size>1.3767352687650285 0.1 3</size>
+            </box>
+          </geometry>
+          <material>
+            <script>
+              <uri>file://media/materials/scripts/gazebo.material</uri>
+              <name>Gazebo/Green</name>
+            </script>
+          </material>
+        </visual>
+      </link>
+    </model>
+    <model name="door_73.0_120.5_3.2">
+      <static>true</static>
+      <pose>73.04000000000815 120.50499999988824 4.7 0 0 0.19646185337495456</pose>
+      <link name="link">
+        <visual name="visual">
+          <geometry>
+            <box>
+              <size>2.100404722931416 0.1 3</size>
+            </box>
+          </geometry>
+          <material>
+            <script>
+              <uri>file://media/materials/scripts/gazebo.material</uri>
+              <name>Gazebo/Red</name>
+            </script>
+          </material>
+        </visual>
+      </link>
+    </model>
+    <model name="door_95.5_74.5_3.2">
+      <static>true</static>
+      <pose>95.51500000001397 74.51000000000931 4.7 0 0 0.19351316121262999</pose>
+      <link name="link">
+        <visual name="visual">
+          <geometry>
+            <box>
+              <size>3.5360005656156344 0.1 3</size>
+            </box>
+          </geometry>
+          <material>
+            <script>
+              <uri>file://media/materials/scripts/gazebo.material</uri>
+              <name>Gazebo/Red</name>
+            </script>
+          </material>
+        </visual>
+      </link>
+    </model>
+    <model name="door_145.4_61.4_3.2">
+      <static>true</static>
+      <pose>145.44999999998254 61.360000000102445 4.7 0 0 -0.011110653908026076</pose>
+      <link name="link">
+        <visual name="visual">
+          <geometry>
+            <box>
+              <size>1.8001111076705336 0.1 3</size>
+            </box>
+          </geometry>
+          <material>
+            <script>
+              <uri>file://media/materials/scripts/gazebo.material</uri>
+              <name>Gazebo/Red</name>
+            </script>
+          </material>
+        </visual>
+      </link>
+    </model>
+    <model name="door_72.2_68.0_3.2">
+      <static>true</static>
+      <pose>72.16500000003725 68.04500000015832 4.7 0 0 1.767083239622093</pose>
+      <link name="link">
+        <visual name="visual">
+          <geometry>
+            <box>
+              <size>3.5379372523187618 0.1 3</size>
+            </box>
+          </geometry>
+          <material>
+            <script>
+              <uri>file://media/materials/scripts/gazebo.material</uri>
+              <name>Gazebo/Green</name>
+            </script>
+          </material>
+        </visual>
+      </link>
+    </model>
+    <model name="door_90.4_79.5_3.2">
+      <static>true</static>
+      <pose>90.41000000000349 79.52499999990687 4.7 0 0 -1.369193218179265</pose>
+      <link name="link">
+        <visual name="visual">
+          <geometry>
+            <box>
+              <size>1.3983204211800917 0.1 3</size>
+            </box>
+          </geometry>
+          <material>
+            <script>
+              <uri>file://media/materials/scripts/gazebo.material</uri>
+              <name>Gazebo/Red</name>
+            </script>
+          </material>
+        </visual>
+      </link>
+    </model>
+  </world>
+</sdf>

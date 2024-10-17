@@ -1,0 +1,9 @@
+<launch>
+    <!-- Set the path to the SDF world file -->
+    <arg name="world_file" value="$(find simulation_gazebo)/worlds/empty.world"/>
+
+    <!-- Launch Gazebo -->
+    <include file="$(find gazebo_ros)/launch/empty_world.launch">
+        <arg name="world_name" value="$(arg world_file)"/>
+    </include>
+</launch>

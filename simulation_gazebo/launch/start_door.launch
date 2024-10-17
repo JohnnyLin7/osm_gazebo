@@ -1,0 +1,7 @@
+<launch>
+    <!-- 启动Gazebo并加载指定的world文件 -->
+    <include file="$(find gazebo_ros)/launch/empty_world.launch">
+        <arg name="world_name" value="$(find simulation_gazebo)/worlds/osm_fujing_edited_2F_only_door_joint.world"/>
+    </include>
+
+</launch>
