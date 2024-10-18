@@ -3,7 +3,7 @@
     <include file="$(find gazebo_ros)/launch/empty_world.launch">
         <!-- <arg name="world_name" value="$(find simulation_gazebo)/worlds/osm_2modified_floor_with_collision_lobby_ele.world"/> -->
         <!-- <arg name="world_name" value="$(find simulation_gazebo)/worlds/osm_2F_floor.world"/> -->
-        <arg name="world_name" value="$(find simulation_gazebo)/worlds/osm_2modified_floor_with_collision_lobby_ele.world"/>
+        <arg name="world_name" value="$(find simulation_gazebo)/worlds/osm_floor.world"/>
     </include>
 
 </launch>

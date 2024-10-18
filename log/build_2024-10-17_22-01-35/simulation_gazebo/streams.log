@@ -1,0 +1,33 @@
+[0.021s] Invoking command in '/home/jay/osm_gazebo/build/simulation_gazebo': CONDA_PROMPT_MODIFIER=(ros2_env) /usr/bin/cmake /home/jay/osm_gazebo/simulation_gazebo -DCATKIN_INSTALL_INTO_PREFIX_ROOT=0 -DCMAKE_INSTALL_PREFIX=/home/jay/osm_gazebo/install/simulation_gazebo
+[0.195s] -- The C compiler identification is GNU 11.4.0
+[0.424s] -- The CXX compiler identification is GNU 11.4.0
+[0.450s] -- Detecting C compiler ABI info
+[0.549s] -- Detecting C compiler ABI info - done
+[0.571s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.572s] -- Detecting C compile features
+[0.574s] -- Detecting C compile features - done
+[0.582s] -- Detecting CXX compiler ABI info
+[0.703s] -- Detecting CXX compiler ABI info - done
+[0.735s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.736s] -- Detecting CXX compile features
+[0.740s] -- Detecting CXX compile features - done
+[0.763s] [31mCMake Error at CMakeLists.txt:10 (find_package):
+[0.763s]   By not providing "Findcatkin.cmake" in CMAKE_MODULE_PATH this project has
+[0.764s]   asked CMake to find a package configuration file provided by "catkin", but
+[0.764s]   CMake did not find one.
+[0.764s] 
+[0.764s]   Could not find a package configuration file provided by "catkin" with any
+[0.764s]   of the following names:
+[0.764s] 
+[0.764s]     catkinConfig.cmake
+[0.764s]     catkin-config.cmake
+[0.764s] 
+[0.764s]   Add the installation prefix of "catkin" to CMAKE_PREFIX_PATH or set
+[0.765s]   "catkin_DIR" to a directory containing one of the above files.  If "catkin"
+[0.765s]   provides a separate development package or SDK, be sure it has been
+[0.765s]   installed.
+[0.765s] 
+[0.765s] [0m
+[0.766s] -- Configuring incomplete, errors occurred!
+[0.766s] See also "/home/jay/osm_gazebo/build/simulation_gazebo/CMakeFiles/CMakeOutput.log".
+[0.768s] Invoked command in '/home/jay/osm_gazebo/build/simulation_gazebo' returned '1': CONDA_PROMPT_MODIFIER=(ros2_env) /usr/bin/cmake /home/jay/osm_gazebo/simulation_gazebo -DCATKIN_INSTALL_INTO_PREFIX_ROOT=0 -DCMAKE_INSTALL_PREFIX=/home/jay/osm_gazebo/install/simulation_gazebo

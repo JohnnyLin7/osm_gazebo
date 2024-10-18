@@ -7,7 +7,7 @@ import map_drawer
 import map_handler
 import json
 
-with open('/home/johnnylin/fujing_osm/src/simulation_gazebo/config/config.json', 'r') as config_file:
+with open('/home/jay/osm_gazebo/simulation_gazebo/config/config.json', 'r') as config_file:
     config = json.load(config_file)
 transition_osm=(config['osm_utm_transform']['x'],config['osm_utm_transform']['y'])    
 
@@ -75,6 +75,15 @@ def add_wall_segment(world_element, start_, end_, height, thickness, color,wall_
     uri.text = "file://media/materials/scripts/gazebo.material"
     name = ET.SubElement(script, 'name')
     name.text = color
+
+    # 添加碰撞元素，为了laserscan的反射
+    collision = ET.SubElement(link, 'collision', name='collision')
+    geometry_collision = ET.SubElement(collision, 'geometry')
+    box_collision = ET.SubElement(geometry_collision, 'box')
+    size_collision = ET.SubElement(box_collision, 'size')
+    size_collision.text = f"{length} {thickness} {height}"
+    
+
     # return wall_name_set
 # 旋转门函数：根据给定的坐标、角度和旋转中心，返回旋转后的坐标
 def rotate_door(x, y, angle_deg, pivot_x, pivot_y):
@@ -199,7 +208,14 @@ def generated_by_areas(areas,world_element):
     uri = ET.SubElement(script, 'uri')
     uri.text = "file://media/materials/scripts/gazebo.material"
     name = ET.SubElement(script, 'name')
-    name.text = "Gazebo/Concrete"
+    name.text = "Gazebo/Grey"
+
+    # Collision element
+    collision = ET.SubElement(link, 'collision', name='collision')
+    geometry_collision = ET.SubElement(collision, 'geometry')
+    box_collision = ET.SubElement(geometry_collision, 'box')
+    size_collision = ET.SubElement(box_collision, 'size')
+    size_collision.text = f"{floor_width} {floor_length} 0.01"
 
         # 设置透明度
     ambient = ET.SubElement(material, 'ambient')
@@ -209,7 +225,7 @@ def generated_by_areas(areas,world_element):
     # -----------------------------------------------------------
 
 if __name__ == '__main__':
-    file_name='/home/johnnylin/fujing_osm/src/simulation_gazebo/maps/ShanghaiTech_merge_F2_corrected_id2name_outside_structure_utm.osm'
+    file_name='/home/jay/osm_gazebo/simulation_gazebo/maps/ShanghaiTech_merge_F2_corrected_id2name_outside_structure_utm.osm'
 
     # areas_tree 对象，利用 ElementTree 从 .osm文件加载并解析，作为XML文件的整个结构树
     areas_tree = ET.parse(file_name)
