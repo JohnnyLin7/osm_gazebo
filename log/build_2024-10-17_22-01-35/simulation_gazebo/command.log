@@ -1,2 +1,0 @@
-Invoking command in '/home/jay/osm_gazebo/build/simulation_gazebo': CONDA_PROMPT_MODIFIER=(ros2_env) /usr/bin/cmake /home/jay/osm_gazebo/simulation_gazebo -DCATKIN_INSTALL_INTO_PREFIX_ROOT=0 -DCMAKE_INSTALL_PREFIX=/home/jay/osm_gazebo/install/simulation_gazebo
-Invoked command in '/home/jay/osm_gazebo/build/simulation_gazebo' returned '1': CONDA_PROMPT_MODIFIER=(ros2_env) /usr/bin/cmake /home/jay/osm_gazebo/simulation_gazebo -DCATKIN_INSTALL_INTO_PREFIX_ROOT=0 -DCMAKE_INSTALL_PREFIX=/home/jay/osm_gazebo/install/simulation_gazebo
